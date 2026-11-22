@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "legogen"
+version = "0.1.0"
+description = "Lego build generator (ID1214)"
+requires-python = ">=3.11"
+dependencies = ["anthropic", "python-dotenv"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
