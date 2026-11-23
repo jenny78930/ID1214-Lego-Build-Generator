@@ -1,0 +1,925 @@
+part_id,name,category,set_count,usage_count
+3004,Brick 1 x 2,Bricks,6888,105228
+3005,Brick 1 x 1,Bricks,5244,84184
+54200,Brick Sloped 30° 1 x 1 x 2/3 (Cheese Slope),Bricks Sloped,5186,50844
+3010,Brick 1 x 4,Bricks,5060,51131
+3003,Brick 2 x 2,Bricks,4718,59216
+3062b,Brick Round 1 x 1 Open Stud,Bricks Round and Cones,4523,34623
+3001,Brick 2 x 4,Bricks,4308,46508
+3040b,Brick Sloped 45° 2 x 1 with Bottom Pin,Bricks Sloped,3726,25726
+85984,Brick Sloped 30° 1 x 2 x 2/3,Bricks Sloped,3638,25328
+3039,Brick Sloped 45° 2 x 2,Bricks Sloped,3622,18702
+3009,Brick 1 x 6,Bricks,3492,25884
+11477,Brick Curved 2 x 1 No Studs [1/2 Bow],Bricks Curved,3428,25683
+3941,Brick Round 2 x 2 with Axle Hole,Bricks Round and Cones,3310,16886
+3622,Brick 1 x 3,Bricks,3273,28459
+59900,Cone 1 x 1 [Top Groove],Bricks Round and Cones,3184,16008
+4070,Brick Special 1 x 1 with Headlight,Bricks Special,3099,20222
+15068,Brick Curved 2 x 2 x 2/3,Bricks Curved,3022,20866
+3660,"Brick Sloped Inverted 45° 2 x 2 [Ovoid Bottom Pin, Bar-sized Stud Holes]",Bricks Sloped,2882,14435
+3665,Brick Sloped Inverted 45° 2 x 1,Bricks Sloped,2866,15743
+3002,Brick 2 x 3,Bricks,2807,19947
+87087,Brick Special 1 x 1 with Stud on 1 Side,Bricks Special,2645,16343
+11211,Brick Special 1 x 2 with 2 Studs on 1 Side,Bricks Special,2439,12068
+2357,Brick 2 x 2 Corner,Bricks,2239,16753
+3008,Brick 1 x 8,Bricks,2182,12032
+6091,Brick Curved 1 x 2 x 1 1/3 with Curved Top,Bricks Curved,2053,11389
+2456,Brick 2 x 6,Bricks,2015,8495
+4286,Brick Sloped 33° 3 x 1,Bricks Sloped,1973,9042
+30414,Brick Special 1 x 4 with 4 Studs on One Side,Bricks Special,1961,7995
+93273,"Brick Curved 4 x 1 Double, No Studs",Bricks Curved,1946,6877
+50950,Brick Curved 3 x 1 No Studs,Bricks Curved,1747,8494
+30136,Brick Special 1 x 2 Palisade [aka Log],Bricks Special,1727,15845
+3298,Brick Sloped 33° 3 x 2,Bricks Sloped,1590,6371
+22885,Brick Special 1 x 2 x 1 2/3 with 4 Studs on 1 Side,Bricks Special,1470,11169
+2877,Brick Special 1 x 2 with Grille,Bricks Special,1385,10932
+61409,Brick Sloped 18° 2 x 1 x 2/3 with 4 Slots / Grate,Bricks Sloped,1374,6384
+15672,Brick Sloped 45° 2 x 1 with 2/3 Cutout [New Version],Bricks Sloped,1364,7462
+3037,Brick Sloped 45° 2 x 4,Bricks Sloped,1322,6785
+3007,Brick 2 x 8,Bricks,1280,5337
+3245c,Brick 1 x 2 x 2 with Inside Stud Holder,Bricks,1268,6019
+24201,Brick Curved Inverted 2 x 1,Bricks Curved,1241,6214
+32952,Brick Special 1 x 1 x 1 2/3 with Studs on 1 Side,Bricks Special,1170,8692
+29120,"Brick Wedged, Curved 2 x 1 with Stud Notch Left",Bricks Wedged,1164,4970
+29119,"Brick Wedged, Curved 2 x 1 with Stud Notch Right",Bricks Wedged,1160,4988
+4733,Brick Special 1 x 1 Studs on 4 Sides,Bricks Special,1148,2697
+3659,Brick Arch 1 x 4,Bricks Curved,1118,4295
+3747b,"Brick Sloped Inverted 33° 3 x 2, Connections between Studs, Ovoid Bottom Pin",Bricks Sloped,1097,3296
+47457,Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End,Bricks Curved,1069,3000
+28192,Brick Sloped 45° 2 x 1 with 2/3 Inverted Cutout and No Stud,Bricks Sloped,1027,5896
+32803,Brick Curved Inverted 2 x 2 x 2/3,Bricks Curved,1026,4742
+11153,Brick Curved 4 x 1 No Studs [Stud Holder with Symmetric Ridges],Bricks Curved,1013,4863
+3065,Brick 1 x 2 without Bottom Tube,Bricks,968,8252
+60481,Brick Sloped 65° 2 x 1 x 2,Bricks Sloped,959,4555
+4589,Cone 1 x 1 [No Top Groove],Bricks Round and Cones,940,4291
+37352,Brick Curved 1 x 2 x 1 No Studs,Bricks Curved,934,4559
+60475b,"Brick Special 1 x 1 with Clip Vertical [Open O Clip, Hollow Stud]",Bricks Special,919,3516
+4871,Brick Sloped Inverted 45° 4 x 2 Double with 2 x 2 Recessed,Bricks Sloped,914,1642
+6111,Brick 1 x 10,Bricks,909,3235
+49307,"Brick Curved 1 x 1 x 2/3 Double Curved Top, No Studs",Bricks Curved,892,7286
+98283,Brick Special 1 x 2 with Masonry Brick Profile,Bricks Special,817,11842
+6112,Brick 1 x 12,Bricks,789,2698
+47905,Brick Special 1 x 1 with Studs on 2 Sides,Bricks Special,783,2149
+3942c,"Cone 2 x 2 x 2, Open Stud",Bricks Round and Cones,763,1679
+4460b,Brick Sloped 75° 2 x 1 x 3 with Hollow Stud,Bricks Sloped,759,3578
+14716,Brick 1 x 1 x 3,Bricks,742,3803
+92947,Brick Round 2 x 2 [Grill],Bricks Round and Cones,726,2544
+3678b,Brick Sloped 65° 2 x 2 x 2 with Bottom Tube,Bricks Sloped,720,2693
+26604,Brick Special 1 x 1 with Studs on 2 Adjacent Sides,Bricks Special,709,3935
+3006,Brick 2 x 10,Bricks,705,2189
+52107,Brick Special 1 x 2 with Studs on 2 Sides,Bricks Special,698,2209
+2458,Brick Special 1 x 2 with Pin,Bricks Special,672,2265
+2465,Brick 1 x 16,Bricks,667,2358
+93606,Brick Curved 4 x 2 No Studs,Bricks Curved,666,2308
+92950,Brick Arch 1 x 6 Raised Arch,Bricks Curved,660,1701
+3045,Brick Sloped 45° 2 x 2 Double Convex,Bricks Sloped,635,2792
+85080,Brick Round Corner 2 x 2 Macaroni with Stud Notch and Reinforced Underside [New Style],Bricks Round and Cones,623,4282
+2454b,Brick 1 x 2 x 5 with Hollow Studs,Bricks,623,3087
+2453b,Brick 1 x 1 x 5 with Solid Stud,Bricks,620,2721
+6232,Brick Special 2 x 2 with Pin and Axle Hole,Bricks Special,619,2201
+15571,Brick Sloped 45° 2 x 1 Triple with Inside Stud Holder,Bricks Sloped,615,2052
+30367c,"Brick Round 2 x 2 Dome Top, Hollow Stud",Bricks Round and Cones,612,1311
+60477,Brick Sloped 18° 4 x 1,Bricks Sloped,609,2213
+30237b,Brick Special 1 x 2 with Vertical Clip [Open O Clip],Bricks Special,599,1470
+3297,Brick Sloped 33° 3 x 4,Bricks Sloped,588,3412
+11215,"Bracket 5 x 2 x 1 1/3 with Holes, Pin Bottom",Bricks Special,581,1363
+13547,Brick Curved Inverted 4 x 1,Bricks Curved,577,2132
+2921,Brick Special 1 x 1 with Handle,Bricks Special,576,2009
+30602,"Brick Curved 2 x 2 with Lip, No Studs",Bricks Curved,566,1254
+88930,"Brick Curved 2 x 4 x 2/3 No Studs, with Bottom Tubes",Bricks Curved,565,1724
+30363,Brick Sloped 18° 4 x 2,Bricks Sloped,541,1690
+87620,Brick Wedged 2 x 2 Facet,Bricks Wedged,535,2953
+2449,Brick Sloped Inverted 75° 2 x 1 x 3,Bricks Sloped,531,2704
+15395,Brick Round 2 x 2 Dome Bottom [Open Stud],Bricks Round and Cones,527,1031
+22388,Brick Sloped 45° 1 x 1 x 2/3 Quadruple Convex [Pyramid],Bricks Sloped,520,2961
+3003a,Brick 2 x 2 without Inside Ridges,Bricks,502,7325
+30236,Brick Special 1 x 2 with Handle,Bricks Special,501,1297
+98100,Brick Round 2 x 2 Truncated Cone,Bricks Round and Cones,490,991
+67329,Brick Special 1 x 2 x 1 2/3 with 8 Studs on 3 Sides,Bricks Special,484,1768
+18653,Brick Curved 1 x 3 x 2 Inverted [Inside Bow],Bricks Curved,473,1876
+3038,Brick Sloped 45° 2 x 3,Bricks Sloped,469,1766
+30165,"Brick Curved 2 x 2, Two Top Studs",Bricks Curved,468,1026
+87081,Brick Round 4 x 4 Centre Hole,Bricks Round and Cones,467,947
+11610,Cone 1 x 1 Inverted with Bar at Bottom (Ice Cream Cone),Bricks Round and Cones,461,1155
+2653,Brick Special 1 x 4 with Groove,Bricks Special,448,1681
+3001a,Brick 2 x 4 without Cross Supports,Bricks,447,9114
+6215,Brick Curved 2 x 3,Bricks Curved,445,2316
+6005,Brick Arch 1 x 3 x 2 Curved Top,Bricks Curved,442,2563
+24309,Brick Curved 3 x 2 No Studs,Bricks Curved,439,3034
+42022,Brick Curved 6 x 1,Bricks Curved,434,1507
+48092,Brick Round Corner 4 x 4 Macaroni Wide with 3 Studs,Bricks Round and Cones,433,2211
+15254,Brick Arch 1 x 6 x 2 - Thin Top without Reinforced Underside [New Version],Bricks Curved,425,1101
+13548,"Brick Wedged, Sloped 45° 2 x 2 Corner",Bricks Wedged,421,2040
+13965,Brick Arch 1 x 3 x 3 [Gothic],Bricks Curved,420,1946
+76959,"Brick Sloped Inverted 45° 2 x 2 [Round Hollow Bottom Pin, Bar-sized Stud Holes]",Bricks Sloped,406,2173
+88292,Brick Arch 1 x 3 x 2,Bricks Curved,404,1650
+4287b,Brick Sloped Inverted 34° 3 x 1 with Internal Stopper,Bricks Sloped,403,1770
+2454a,Brick 1 x 2 x 5 with Blocked Open Studs and Bottom Stud Holder with Asymmetric Ridges,Bricks,402,2079
+86876,"Brick Special 1 x 2 with 1 Center Stud on 1 Side, Bottom Stud Holder",Bricks Special,400,1592
+4595,Brick Special 1 x 2 x 2/3 with Studs on Sides,Bricks Special,398,653
+4287c,Brick Sloped Inverted 33° 3 x 1 with Internal Stopper and No Front Stud Connection,Bricks Sloped,397,1584
+78666,Brick Curved 2 x 1 with Inverted Cutout,Bricks Curved,395,1976
+52031,"Brick Wedged, Curved Triple 4 x 6 x 2/3 with 4 Studs",Bricks Wedged,395,598
+47456,"Brick Wedged, Curved 2 x 3 x 2/3 Two Studs, Wing End",Bricks Wedged,394,1078
+3747a,"Brick Sloped Inverted 33° 3 x 2, No Connections between Studs, Ovoid Bottom Pin",Bricks Sloped,392,1143
+98560,Brick Sloped 75° 2 x 2 x 3 [Solid Studs],Bricks Sloped,390,1798
+52501,Brick Sloped Inverted 45° 6 x 1 Double with 1 x 4 Recessed,Bricks Sloped,388,817
+30137,Brick Special 1 x 4 Palisade [aka Log],Bricks Special,385,2107
+4490,Brick Arch 1 x 3,Bricks Curved,382,1568
+41748,"Brick Wedged, Curved 6 x 2 Left, Inner Ridges",Bricks Wedged,377,633
+25214,Brick Round 1 x 1 Diameter Tube with 90 Degree Elbow (2 x 2 x 1) and Axle Holes (Crossholes) at Each End,Bricks Round and Cones,372,1471
+30000,Brick Special 2 x 2 with 2 Pins and Axle Hole,Bricks Special,372,1203
+45677,"Brick Wedged, Curved Triple 4 x 4 x 2/3, 2 Studs",Bricks Wedged,372,620
+43711,"Brick Wedged, Sloped 4 x 2 Triple Right",Bricks Wedged,371,715
+70681,"Brick Curved, 3 x 1 with 1/3 Inverted Cutout",Bricks Curved,369,2529
+43710,"Brick Wedged, Sloped 4 x 2 Triple Left",Bricks Wedged,366,748
+6182,Brick Arch 1 x 4 x 2,Bricks Curved,354,942
+42023,Brick Curved Inverted 6 x 1,Bricks Curved,343,1296
+41747,"Brick Wedged, Curved 6 x 2 Right, Inner Ridges",Bricks Wedged,338,546
+17485,"Brick Round 2 x 2, Pin Holes",Bricks Round and Cones,333,869
+6081,Brick Curved 2 x 4 x 1 1/3,Bricks Curved,331,1156
+22886,Brick 1 x 2 x 3 with Bottom Stud Holder,Bricks,326,1198
+60476,Brick Special 1 x 1 with Clip Horizontal,Bricks Special,319,869
+73562,Bracket 3 x 2 x 1 1/3 with Bottom Stud Holder,Bricks Special,313,1026
+43713,"Brick Wedged, Curved Inverted 6 x 4",Bricks Wedged,313,432
+3002a,Brick 2 x 3 without Cross Supports,Bricks,311,2773
+30145,Brick 2 x 2 x 3,Bricks,309,1106
+3048c,Brick Sloped 45° 2 x 1 Triple with Ovoid Bottom Pin,Bricks Sloped,308,1098
+85975,Cone 1.17 x 1.17 x 2/3 (Fez),Bricks Round and Cones,300,623
+4287a,Brick Sloped Inverted 34° 3 x 1 without Internal Stopper,Bricks Sloped,298,1115
+6564,"Brick Wedged, Angled 3 x 2 Right",Bricks Wedged,292,585
+14395,"Brick Arch 1 x 5 x 4 [Continuous Bow, Raised Underside Cross Supports]",Bricks Curved,291,1341
+16577,Brick Arch 1 x 8 x 2 Raised,Bricks Curved,288,629
+47458,"Brick Wedged, Curved 1 x 2 x 2/3 No Studs, Wing End",Bricks Wedged,287,778
+35464,Brick Sloped Double 45° 1 x 1 x 2/3,Bricks Sloped,286,1722
+5841,Brick Curved 1 x 2 x 1 with Curved Top,Bricks Curved,282,1907
+20310,Brick Special 1 x 1 with Scroll with Open Stud,Bricks Special,280,1622
+60219,Brick Sloped Inverted 45° 6 x 4 Double with 4 x 4 Recessed and 3 Holes,Bricks Sloped,280,464
+15533,Brick Special 1 x 4 with Masonry Brick Profile,Bricks Special,279,2088
+6565,"Brick Wedged, Angled 3 x 2 Left",Bricks Wedged,279,559
+3062a,Brick Round 1 x 1 Solid Stud,Bricks Round and Cones,278,1591
+2453a,Brick 1 x 1 x 5 with Blocked Open or Hollow Stud,Bricks,277,1001
+30237a,Brick Special 1 x 2 with Vertical Clip [Thick U Clip],Bricks Special,277,865
+90258,Brick Special 2 x 2 with Grooves and Axle Hole,Bricks Special,277,718
+66956,"Brick Wedged, Curved 2 x 2 with Stud Notches",Bricks Wedged,276,955
+68013,"Brick Round, Half 1 x 2",Bricks Round and Cones,275,1013
+64225,"Brick Wedged, Curved 4 x 3 No Studs [Plain]",Bricks Wedged,275,602
+13731,Brick Curved 10 x 1 [Symmetric Inside Ridges],Bricks Curved,273,958
+4216,Brick Special 1 x 2 with Groove,Bricks Special,268,2178
+3300,Brick Sloped 33° 2 x 2 Double,Bricks Sloped,267,757
+2462,Brick Wedged 3 x 3 Facet,Bricks Wedged,266,1183
+77808,Brick Special 1 x 2 Rounded with Center Bars,Bricks Special,263,1049
+30367b,"Brick Round 2 x 2 Dome Top, Blocked Open Stud, Bottom Axle Holder",Bricks Round and Cones,262,664
+3684,Brick Sloped 75° 2 x 2 x 3 [Hollow Studs],Bricks Sloped,260,962
+76766,"Bracket 5 x 2 x 2 1/3 with Holes, Inside Stud Holder",Bricks Special,258,518
+47753,"Brick Wedged, Curved 4 x 4 No Top Studs",Bricks Wedged,257,492
+6249,Brick Special 2 x 4 with Pins,Bricks Special,255,798
+3676,Brick Sloped Inverted 45° 2 x 2 Double Convex,Bricks Sloped,252,784
+1750,Brick Curved Inverted 2 x 2 with 1 x 2 Cutouts,Bricks Curved,248,940
+2310,Brick Sloped Inverted 45° 2 x 1 with 2/3 Cutout,Bricks Sloped,246,1125
+72454,"Brick Sloped Inverted 45° 4 x 4 Double with 4 x 2 Recessed, 2 Holes",Bricks Sloped,246,385
+4460a,Brick Sloped 75° 2 x 1 x 3 with Open Stud,Bricks Sloped,245,902
+6222,Brick Round 4 x 4 with 4 Side Pin Holes and Center Axle Hole,Bricks Round and Cones,233,669
+3043,Brick Sloped 45° 2 x 2 Double,Bricks Sloped,233,636
+3307,Brick Arch 1 x 6 x 2 - Thick Top with Reinforced Underside,Bricks Curved,230,646
+3455,Brick Arch 1 x 6,Bricks Curved,228,571
+4588,"Brick Round 1 x 1 with Fins, Open Stud",Bricks Round and Cones,227,445
+22889,Brick Sloped Inverted 45° 6 x 2 Double with 2 x 4 Recessed,Bricks Sloped,226,376
+10314,Brick Curved 1 x 4 x 1 1/3 No Studs,Bricks Curved,224,561
+3262,"Brick Round 2 x 2 Dome Top, Vented Stud",Bricks Round and Cones,224,519
+3046a,Brick Sloped 45° 2 x 2 Double Concave,Bricks Sloped,219,1103
+3299,Brick Sloped 33° 2 x 4 Double,Bricks Sloped,217,896
+79756,"Brick Curved 1 x 4 x 2/3 Double, No Studs",Bricks Curved,214,1617
+32802,Brick Sloped Inverted 45° 4 x 1 Double with 1 x 2 Recessed,Bricks Sloped,214,437
+4854,Brick Sloped Inverted 45° 4 x 4 Double with 4 x 2 Recessed,Bricks Sloped,212,381
+30099,Brick Curved 1 x 5 x 4 Inverted,Bricks Curved,211,793
+5404,Brick Sloped 18° 2 x 1 x 2/3,Bricks Sloped,210,1107
+6223,Brick 2 x 2 without Inside Ridges,Bricks,208,1895
+46212,Brick 1 x 2 x 5 without Side Supports,Bricks,207,707
+6233,Cone 3 x 3 x 2,Bricks Round and Cones,203,397
+18671,Bracket 3 x 2 x 1 1/3 with Pin Bottom,Bricks Special,200,560
+3049d,Brick Sloped 45° 2 x 1 Double / Inverted with Bottom Stud Holder,Bricks Sloped,197,544
+30526,"Brick Special 1 x 2 with 2 Pins, Round Pin Holes",Bricks Special,197,521
+44126,Brick Curved 6 x 2,Bricks Curved,197,454
+11291,"Brick Wedged, Curved 3 x 4 x 2/3 Cutout",Bricks Wedged,194,298
+3063b,Brick Round Corner 2 x 2 Macaroni with Stud Notch,Bricks Round and Cones,193,1629
+34816,Brick Special 1 x 2 with Vertical Closed Handle on Edge,Bricks Special,193,674
+4855,"Brick Wedged, Sloped Inverted 4 x 4 Triple [2 Connections between Front Studs]",Bricks Wedged,193,312
+43712,"Brick Wedged, Curved 6 x 4 Triple",Bricks Wedged,192,360
+3308,Brick Arch 1 x 8 x 2,Bricks Curved,191,484
+3943b,"Cone 4 x 4 x 2, Axle Hole [Plain]",Bricks Round and Cones,191,383
+30151b,"Brick Round 2 x 2 x 1 2/3 Dome Top, Hollow Stud",Bricks Round and Cones,189,259
+3044c,Brick Sloped 45° 2 x 1 Double with Inside Stud Holder,Bricks Sloped,187,627
+33243,Brick Curved 1 x 3 x 2,Bricks Curved,186,685
+61678,Brick Curved 4 x 1 No Studs [Stud Holder with Asymmetric Ridges],Bricks Curved,184,901
+30592,"Brick Special 2 x 4, with 2 x 2 Brick with Top Pin and 1 x 2 Side Plates",Bricks Special,182,305
+4445,Brick Sloped 45° 2 x 8,Bricks Sloped,180,712
+60583b,"Brick Special 1 x 1 x 3 with 2 Clips Vertical [Hollow Stud, Open O Clips]",Bricks Special,178,386
+3675,Brick Sloped 33° 3 x 3 Double Convex,Bricks Sloped,177,700
+80178,"Brick Wedged, Curved 3 x 2 with Stud Notch Right",Bricks Wedged,174,427
+80177,"Brick Wedged, Curved 3 x 2 with Stud Notch Left",Bricks Wedged,173,412
+3581,Brick Special 1 x 1 x 2 with Shutter Holder,Bricks Special,172,578
+39789,Brick Special 2 x 4 with 3 Axle Holes,Bricks Special,170,504
+3245b,Brick 1 x 2 x 2 with Inside Axle Holder,Bricks,169,884
+4515,Brick Sloped 10° 6 x 8,Bricks Sloped,167,357
+3040a,Brick Sloped 45° 2 x 1 without Bottom Pin,Bricks Sloped,163,744
+3563,"Brick Curved 1 x 2 x 2/3 Double Curved Top, No Studs",Bricks Curved,161,850
+44865,Brick Special 1 x 2 with Pin - Bottom Stud Holder,Bricks Special,160,722
+88293,Brick Round Corner 3 x 3 x 2 Dome Top,Bricks Round and Cones,160,586
+41767,"Brick Wedged, Angled 4 x 2 Right",Bricks Wedged,160,341
+5852,"Brick Round Corner, Curved 2 x 2 x 2/3 Quarter Circle With 1 x 1 Bottom Cutout",Bricks Round and Cones,159,1284
+76797,"Brick Round Corner, Curved 3 x 3 x 1 Quarter Circle",Bricks Round and Cones,158,841
+41768,"Brick Wedged, Angled 4 x 2 Left",Bricks Wedged,158,325
+2339,Brick Arch 1 x 5 x 4 [Continuous Bow],Bricks Curved,153,609
+3005pr9996,Brick 1 x 1 with Simple Eye Black and White Print,Bricks,152,657
+47759,"Brick Wedged, Sloped 45° 2 x 4 Triple",Bricks Wedged,151,292
+13349,"Brick Wedged, Sloped Inverted 4 x 4 Triple [4 Connections between Front Studs]",Bricks Wedged,147,226
+3041,Brick Sloped 45° 2 x 4 Double,Bricks Sloped,145,563
+6183,Brick Arch 1 x 6 x 2 Curved Top,Bricks Curved,144,431
+85984pr0006,Brick Sloped 30° 1 x 2 x 2/3 with Buttons And Red Screens Print,Bricks Sloped,143,208
+93604,Brick Round 3 x 4 x 2/3 Triple Curved with 2 Sunk Studs,Bricks Round and Cones,142,355
+50956,"Brick Wedged, Curved 10 x 3 Right",Bricks Wedged,142,225
+6060,Brick Arch 1 x 6 x 3 1/3 Curved Top,Bricks Curved,141,667
+50955,"Brick Wedged, Curved 10 x 3 Left",Bricks Wedged,141,226
+30361c,"Brick Round 2 x 2 x 2 Robot Body, Axle Holder '+' Orientation",Bricks Round and Cones,139,274
+41764,"Brick Wedged, Curved Inverted 6 x 2 Right",Bricks Wedged,139,194
+41765,"Brick Wedged, Curved Inverted 6 x 2 Left",Bricks Wedged,138,193
+7126,Brick Curved 1 x 1,Bricks Curved,137,628
+92946,Brick Sloped 45° 2 x 1 with 2/3 Cutout [Original Version],Bricks Sloped,136,559
+5095,"Brick Wedged, Curved 2 x 2 with Stud Notch Left",Bricks Wedged,135,314
+48933,"Brick Wedged, Sloped 4 x 4 Triple, Stud Notches",Bricks Wedged,135,285
+5093,"Brick Wedged, Curved 2 x 2 with Stud Notch Right",Bricks Wedged,132,299
+5907,Brick Curved 1 x 2 x 1 2/3 with 1 Cutout,Bricks Curved,129,1073
+20952,Brick Round 1.5 x 1.5 Dome Top [Plain],Bricks Round and Cones,129,256
+3685,Brick Sloped 75° 2 x 2 x 3 Double Convex,Bricks Sloped,127,643
+2752,"Brick Sloped Inverted 33° 3 x 2, Connections between Studs, Round Bottom Pin",Bricks Sloped,127,346
+6259,Cylinder Half 2 x 4 x 4,Bricks Round and Cones,126,495
+67810,"Brick Round, Curved 2 x 2 x 1 1/3, Corner",Bricks Round and Cones,125,435
+85941,Cylinder Half 2 x 4 x 5 with 1 x 2 Cutout,Bricks Round and Cones,120,353
+65617,Brick Round Corner 3 x 3 x 1 No Studs,Bricks Round and Cones,118,643
+18759,Brick Sloped Inverted 45° 3 x 1 Double with 2 Blocked Open Studs,Bricks Sloped,117,348
+33492,Cone 1 1/2 x 1 1/2 x 2/3,Bricks Round and Cones,117,303
+3039pr0002,"Brick Sloped 45° 2 x 2 with Green Radar, Green/Red Buttons and Disk Slot Print",Bricks Sloped,116,151
+49311,Brick 1 x 4 x 3,Bricks,115,325
+50373,Brick Wedged 3 x 4 [Stud Notches],Bricks Wedged,114,154
+18838,Brick Arch 1 x 12 x 3 Raised Arch with 5 Cross Supports,Bricks Curved,112,279
+41750,"Brick Wedged, Curved 8 x 3 x 2 Open Left",Bricks Wedged,111,210
+41749,"Brick Wedged, Curved 8 x 3 x 2 Open Right",Bricks Wedged,111,208
+60475a,"Brick Special 1 x 1 with Clip Vertical [Thick U Clip, Solid Stud]",Bricks Special,110,339
+53540,"Brick Special 1 x 2 with 2 Pins, Square Pin Holes",Bricks Special,110,274
+4204,Brick 8 x 16,Bricks,110,194
+6191,"Brick Curved 1 x 4 x 1 1/3 No Studs, Lowered Inside Support",Bricks Curved,106,352
+3066,Brick 1 x 4 without Bottom Tubes,Bricks,106,323
+4856a,"Brick Wedged, Sloped Inverted 6 x 4 with 2 Stud Connections",Bricks Wedged,104,155
+30505,Brick Wedged 3 x 3 Cut Corner,Bricks Wedged,103,350
+95188,Brick Round Corner 6 x 6 with 33° Slope and Facet Cutout,Bricks Round and Cones,102,432
+3003pr0053,"Brick 2 x 2 with Eye with White Print on Two Sides, Offset",Bricks,100,235
+3001pr0043,Brick 2 x 4 with Smile and Frown Print on Opposite Sides,Bricks,99,174
+6908,Dome 1 x 1 x 2/3,Bricks Round and Cones,98,379
+3688,Brick Sloped 75° 2 x 2 x 2 Quadruple Convex,Bricks Sloped,98,195
+4742,Cone 4 x 4 x 2 Hollow No Studs,Bricks Round and Cones,98,140
+48165,"Brick Wedged, Sloped 45° 3 x 3 Right",Bricks Wedged,96,244
+42862,"Brick Wedged, Sloped 45° 3 x 3 Left",Bricks Wedged,96,242
+14413,Brick Wedged 4 x 4 Facet,Bricks Wedged,95,334
+24593,Cylinder Half 2 x 4 x 2 with 1 x 2 Cutout,Bricks Round and Cones,95,253
+3039pr0005,Brick Sloped 45° 2 x 2 with Radar Screen Print,Bricks Sloped,95,103
+80431,Brick Special 1 x 2 x 1 1/3 with Rotation Joint Socket,Bricks Special,94,238
+6192b,"Brick Curved 2 x 4 Double, No Studs, with Groove",Bricks Curved,93,346
+30151a,"Brick Round 2 x 2 x 1 2/3 Dome Top, Blocked Open Stud",Bricks Round and Cones,93,172
+43721,"Brick Wedged, Sloped 45° 4 x 2 Left",Bricks Wedged,93,124
+43720,"Brick Wedged, Sloped 45° 4 x 2 Right",Bricks Wedged,92,122
+4202,Brick 4 x 12,Bricks,91,150
+3040bpr0003,Brick Sloped 45° 2 x 1 with Green and Red Buttons and Keypad Print,Bricks Sloped,90,104
+73111,Brick Round 3 x 3 x 2 Recessed Center with 2 x 2 Studs and Axle Hole,Bricks Round and Cones,89,252
+38583,Brick Arch 1 x 2 Jumper,Bricks Curved,88,400
+45301,"Brick Wedged, Curved 16 x 4 Triple with Inner Ridges",Bricks Wedged,88,186
+2577,Brick Round Corner 4 x 4 Full Brick,Bricks Round and Cones,86,349
+44675,Brick Curved 2 x 2 No Studs - 3 Recessed Side Ports,Bricks Curved,86,166
+4569,Brick Sloped 1 x 6 x 1 with 1 x 2 x 1/3 Cutout,Bricks Sloped,85,599
+24947,Brick Round 2 x 2 x 1 1/3 Inverted,Bricks Round and Cones,85,159
+68325,Brick Round 4 x 4 with Recessed Center,Bricks Round and Cones,85,143
+4861,Brick Sloped 45° 3 x 4 Double / 33°,Bricks Sloped,84,146
+64867,"Brick Wedged, Sloped 4 x 4 Fractured Polygon Top",Bricks Wedged,83,254
+4217,Brick Special 1 x 14 Grooved,Bricks Special,81,201
+4161,Brick Sloped 33° 3 x 3,Bricks Sloped,79,369
+5415,"Brick Wedged, Curved 1 x 4 with Stud Notch Left",Bricks Wedged,79,211
+6108,Brick Arch 1 x 12 x 3,Bricks Curved,79,173
+80543,Brick Arch 1 x 4 x 3,Bricks Curved,78,339
+5414,"Brick Wedged, Curved 1 x 4 with Stud Notch Right",Bricks Wedged,78,188
+85984pr0143,Brick Sloped 30° 1 x 2 x 2/3 with 2 Gauges/Dials Print,Bricks Sloped,76,82
+80796,Brick Special 1 x 2 x 1 2/3 with 8 Studs on 2 Sides,Bricks Special,75,283
+6087,"Bracket 5 x 2 x 2 1/3 with Holes, Smooth Bottom",Bricks Special,75,143
+79180,Bracket 5 x 2 x 1 1/3 with Bottom Stud Holder,Bricks Special,74,251
+4744,Brick Curved 2 x 4 x 2 Double [Plain],Bricks Curved,74,116
+3573,Brick Curved 1 x 4 x 1 2/3 No Studs,Bricks Curved,73,505
+1871,Brick Round Curved 1 x 1 x 1 1/3 Quarter Dome,Bricks Round and Cones,73,328
+3668,"Brick Special 2 x 6 x 1 1/3 with Axle Holes and 2 x 4 Recessed, Ridges at Underside",Bricks Special,73,140
+85984pr0021,"Brick Sloped 30° 1 x 2 x 2/3 with Dashboard, Speedometers Print",Bricks Sloped,73,81
+98281,Brick Curved 6 x 4 x 2/3 Quad Curved with 2 x 2 Studs,Bricks Curved,72,88
+3039pr0026,Brick Sloped 45° 2 x 2 with Computer Screen Print,Bricks Sloped,71,90
+4858,"Brick Wedged, Sloped 4 x 4 Taper",Bricks Wedged,71,81
+22391,"Brick Wedged, Sloped 4 x 4 Pointed",Bricks Wedged,69,212
+3039pr0013,Brick Sloped 45° 2 x 2 with Aircraft Multiple Flight Controls Print,Bricks Sloped,69,74
+5843,Brick Arch 1 x 3 x 1 2/3 Curved Top,Bricks Curved,68,405
+3010apr0003,Brick 1 x 4 with Chrome Silver Car Grill Print [Embossed],Bricks,68,100
+3039pr9994,Brick Sloped 45° 2 x 2 with Computer Panel Print,Bricks Sloped,67,89
+7302,Brick Curved 3 x 1 x 2/3,Bricks Curved,66,401
+4730,Brick Special 2 x 2 with Pin and No Axle Hole,Bricks Special,66,146
+5711,"Brick Wedged, Curved 6 x 2 Right, Smooth Inner Walls",Bricks Wedged,66,135
+42918,Brick Curved 8 x 2 No Studs,Bricks Curved,65,295
+3044b,Brick Sloped 45° 2 x 1 Double with Ovoid Bottom Pin,Bricks Sloped,64,157
+3939,Brick Sloped 33° 3 x 6,Bricks Sloped,64,146
+30249,Brick Sloped 55° 1 x 6 x 5,Bricks Sloped,63,198
+66955,"Brick Curved 4 x 3 with 3 Layers, 1 x 3 Cutout on Underside",Bricks Curved,63,164
+3003pr0052,"Brick 2 x 2 with Eye [No Pupils] Print on Two Sides, Offset",Bricks,63,146
+2341,Brick Sloped Inverted 45° 3 x 1 Double with 2 Completely Open Studs,Bricks Sloped,63,135
+18975,Brick Special 2 x 4 x 1 1/3 with Pin Holes and 2 x 2 Recessed,Bricks Special,62,110
+4732,Bracket 8 x 2 x 1 1/3,Bricks Special,62,76
+4201,Brick 8 x 8,Bricks,61,170
+3049c,Brick Sloped 45° 2 x 1 Double / Inverted with Hollow Bottom,Bricks Sloped,61,146
+67446,Brick Special 2 x 4 x 1 1/3 with Axle Holes and 2 x 2 Recessed and Hole,Bricks Special,61,133
+30180,Brick Sloped 45° 10 x 2 x 2 Double,Bricks Sloped,60,114
+5906,"Brick Round Corner, Curved 2 x 2 x 1 2/3 Quarter Dome with 1 Cutout",Bricks Round and Cones,59,236
+3678a,Brick Sloped 65° 2 x 2 x 2 Smooth without Bottom Tube,Bricks Sloped,59,184
+3004pr0014,Brick 1 x 2 with Reddish Brown and Dark Brown Lines Print,Bricks,59,122
+3010pr9980,Brick 1 x 4 with Black Smile Print,Bricks,59,86
+5489,Brick Round 2 x 2 D. Tube with 45° Elbow and Axle Holes (Crossholes) at Each End [LONG],Bricks Round and Cones,58,191
+41855,Brick Curved 2 x 2 x 2/3 Two Studs and Lip End,Bricks Curved,58,116
+3010a,"Brick 1 x 4 with Bottom Tubes, Lowered Center Cross Support",Bricks,57,334
+79897,"Brick Special 2 x 5 with Slope, Studs on Side",Bricks Special,57,189
+86500,Dome Hemisphere 4 x 4,Bricks Round and Cones,57,97
+38585,Brick Arch 1 1/2 x 1 1/2 Corner,Bricks Curved,56,452
+58846,"Brick Round Corner 10 x 10 with Slope 33° Edge, Axle Hole, Facet Cutout",Bricks Round and Cones,56,172
+42060,"Brick Wedged, Curved 12 x 3 Right",Bricks Wedged,56,83
+42061,"Brick Wedged, Curved 12 x 3 Left",Bricks Wedged,56,83
+5654,Brick Sloped 1 x 4 with 1 x 2 Cutout,Bricks Sloped,55,323
+88393,Brick Special 1 x 2 x 5 with Groove,Bricks Special,55,299
+3008b,Brick 1 x 8 with Bottom Tubes and 3 Lowered Cross Supports,Bricks,54,228
+6212,Brick 4 x 10,Bricks,54,103
+3504,"Brick Wedged, Sloped 2 x 5 Left",Bricks Wedged,54,97
+2434,Brick Special 2 x 4 x 2 with Studs on Sides,Bricks Special,54,88
+4743,Brick Arch 2 x 8 x 3,Bricks Curved,54,87
+3009b,Brick 1 x 6 with Bottom Tubes and 2 Lowered Cross Supports,Bricks,53,282
+30283,Brick Sloped Inverted 45° 6 x 4 Double with 4 x 4 Recessed,Bricks Sloped,53,117
+3505,"Brick Wedged, Sloped 2 x 5 Right",Bricks Wedged,53,94
+47406,"Brick Wedged, Curved Inverted 10 x 6 x 2 Cockpit",Bricks Wedged,53,64
+79757,"Brick Curved 2 x 2 x 2/3 Double, Corner, No Studs",Bricks Curved,52,244
+5848,Brick Round Curved 1 x 1 x 1 Quarter Dome,Bricks Round and Cones,52,232
+49308,Brick Round 3 x 3 Dome with Center Stud,Bricks Round and Cones,52,99
+85984pr0002,Brick Sloped 30° 1 x 2 x 2/3 with Dark Red Horizon Screen and Gold Switches and Buttons Print,Bricks Sloped,52,68
+11267,Slide Curved 180°,Bricks Special,52,58
+3005pr0003,Brick 1 x 1 with Simple Black Eye with White Pupil Print,Bricks,51,812
+5846,"Brick Round, Curved 2 x 2 x 1, Corner",Bricks Round and Cones,51,198
+65473,Brick Round 2 x 2 D. Tube with 45° Elbow and Axle Holes (Crossholes) at Each End [SHORT],Bricks Round and Cones,51,188
+20953,Brick Round 2 x 2 Sphere with Stud [Plain],Bricks Round and Cones,50,73
+32083,Brick Sloped 45° 6 x 4 Double [aka Train Roof],Bricks Sloped,49,177
+58181,Brick Sloped 33° 3 x 6 No Inner Walls,Bricks Sloped,49,87
+79850,"Brick Round 4 x 4 Dome Top with Round 2 x 2 Recessed, 4 Studs",Bricks Round and Cones,49,86
+5712,Bracket 5 x 1 x 1 1/3,Bricks Special,48,162
+43708,"Brick Wedged, Sloped 18° 4 x 4 Corner",Bricks Wedged,48,160
+3039pr9969,Brick Sloped 45° 2 x 2 with Flight Control Print,Bricks Sloped,48,51
+1762,Brick Sloped 33° 2 x 2 Double / Inverted,Bricks Sloped,47,169
+65734,Brick Curved 1 x 4 x 2 2/3,Bricks Curved,47,164
+14520,Brick Special 2 x 4 - 1 x 4 with 2 Recessed Studs and Thin Side Arches,Bricks Special,47,106
+30360,Cylinder 3 x 6 x 2 2/3 Horizontal Hollow Studs,Bricks Round and Cones,46,115
+3008a,Brick 1 x 8 without Bottom Tubes with Cross Side Supports,Bricks,45,247
+3004pr0036,Brick 1 x 2 with Black 'TNT' Pixelated Print,Bricks,45,109
+2356,Brick 4 x 6,Bricks,45,102
+6153b,"Brick Wedged, Sloped 6 x 4 Cutout, Stud Notches",Bricks Wedged,45,87
+13269,"Brick Wedged, Sloped 45° 6 x 4 Double / 33°, 5 Bottom Tubes [Train Roof]",Bricks Wedged,44,76
+29115,"Brick Wedged, Sloped Inverted 6 x 6 x 1 Triple",Bricks Wedged,44,52
+32739,Brick Sloped 4 x 6 x 2/3 Double,Bricks Sloped,43,100
+2399,Brick Wedged 3 x 4 [No Stud Notches],Bricks Wedged,43,58
+24599,"Brick Round Corner 5 x 5 x 1 Curved, Bottom Cut Outs, No Studs, 7 Bottom Tubes",Bricks Round and Cones,42,159
+4744pr0002,Brick Curved 2 x 4 x 2 Double with Freckled Face Print,Bricks Curved,42,44
+7324,Brick Round 1 x 1 D. Tube with 45° Elbow and Axle Holes (Crossholes) at Each End,Bricks Round and Cones,41,223
+4729,"Brick Special 2 x 2 No Studs, Top Pin",Bricks Special,41,157
+54091,Brick Curved Inverted 8 x 8 x 2 Double,Bricks Curved,41,93
+47543,Cone Half 8 x 4 x 6,Bricks Round and Cones,41,69
+28387,Slide Curved Left 90°,Bricks Special,41,46
+64776pat0001,Die - 6 Sided Rubber Frame with Red Centre Studs (Board Games),Bricks Special,41,41
+3754,Brick 1 x 6 x 5,Bricks,40,176
+5850,"Brick Arch 1 x 3 x 2, Straight End",Bricks Curved,40,176
+5842,Brick Curved 2 x 4 x 1,Bricks Curved,40,151
+3040bpr0013,Brick Sloped 45° 2 x 1 with Buttons and Screen with '_ _ _ _' Print,Bricks Sloped,40,43
+6216,"Brick Curved 2 x 4 x 2 Triple, No Studs",Bricks Curved,39,146
+87559,Brick Round Corner 6 x 6 x 2,Bricks Round and Cones,39,142
+38317,Cone Half 2 x 4 x 3,Bricks Round and Cones,39,98
+11301,Brick Curved Inverted 2 x 8 x 2 Double,Bricks Curved,39,71
+4856b,"Brick Wedged, Sloped Inverted 6 x 4 with 4 Stud Connections",Bricks Wedged,39,71
+5152,Brick Round Corner 3 x 3 Macaroni with 2 Studs,Bricks Round and Cones,38,203
+3048a,Brick Sloped 45° 2 x 1 Triple with Hollow Underside,Bricks Sloped,38,102
+12939,Brick Arch 1 x 6 x 2 - Very Thin Top without Reinforced Underside,Bricks Curved,38,93
+4591,Brick Round 2 x 2 x 2 with Axle Hole and Fins,Bricks Round and Cones,38,62
+5845,Brick Arch 1 x 5 x 3 1/3 Curved Top,Bricks Curved,37,216
+4045,"Brick Round, Curved Triple 1 x 4 x 1",Bricks Round and Cones,37,76
+52038,Brick Special 2 x 4 - 1 x 4 with 2 Recessed Studs and Thick Side Arches,Bricks Special,37,73
+6192a,"Brick Curved 2 x 4 Double, No Studs, without Groove",Bricks Curved,36,111
+11290,Brick Curved 2 x 8 x 2 Double,Bricks Curved,36,84
+87926,Cylinder Half 3 x 6 x 6 with 1 x 2 Cutout,Bricks Round and Cones,35,87
+4920,Brick Special 1 x 2 with Rotation Joint Pin,Bricks Special,35,75
+700d,"Brick 10 x 20 with Bottom Tubes in Single Row around Edge, with '+' Cross Support",Bricks,35,71
+6069,"Brick Wedged, Sloped 4 x 4 Triple, No Stud Notches",Bricks Wedged,35,56
+77180,"Brick Round, Curved 10 x 2 x 2 with Rounded End Left",Bricks Round and Cones,35,51
+4744pr0001,Brick Curved 2 x 4 x 2 Double with Yellow Girl Face Print,Bricks Curved,35,36
+44359,Dome Hemisphere 3 x 3 Ball Turret,Bricks Round and Cones,34,153
+5540,Brick Sloped 45° 2 x 4 with 2/3 Inverted Cutout and no Studs,Bricks Sloped,34,150
+50967,Brick Arch 8 x 1 x 1 2/3 Curved,Bricks Curved,34,138
+54095,Brick Curved 8 x 8 x 2 Double,Bricks Curved,34,69
+4088,Brick Curved 1 x 4 x 2 Centre Stud Top,Bricks Curved,34,64
+77182,"Brick Round, Curved 10 x 2 x 2 with Rounded End Right",Bricks Round and Cones,34,49
+3039pr0001,Brick Sloped 45° 2 x 2 with Windows in Computer Screen Print,Bricks Sloped,34,41
+76768,"Brick Arch 1 x 5 x 4 [Irregular Bow, Raised Underside Cross Supports]",Bricks Curved,33,155
+3005pr9993,Brick 1 x 1 with Oranges Print [Juice Carton],Bricks,33,42
+27976,Slide Straight 4 x 6 x 6,Bricks Special,33,39
+3005pr0006,"Brick 1 x 1 with Milk Carton, Cow, Print",Bricks,33,38
+6801,Brick Curved 1 x 6,Bricks Curved,32,119
+7835,Brick Sloped 30° 1 x 4 x 2/3,Bricks Sloped,32,102
+3039pr0009,Brick Sloped 45° 2 x 2 with Black Grill Print,Bricks Sloped,32,57
+3042,Brick Sloped 45° 2 x 3 Double,Bricks Sloped,32,56
+49309,Cone 2 x 2 x 2 Inverted,Bricks Round and Cones,32,46
+3009a,"Brick 1 x 6 without Bottom Tubes, with 2 Raised Cross Supports",Bricks,31,275
+2626,"Brick Wedged, Sloped Inverted 6 x 6 x 1 Boat Bow",Bricks Wedged,31,62
+3004pr9981,Brick 1 x 2 with Black Grill Print,Bricks,31,62
+30208,Dome Hemisphere 4 x 4 Multifaceted,Bricks Round and Cones,31,53
+35563,Tower Roof 2 x 4 x 4 Half Cone Shaped with Roof Tiles,Bricks Round and Cones,31,53
+3004pr9979,Brick 1 x 2 with Eyes and Smile Print,Bricks,31,51
+40996,Brick Curved 1 x 4 with Sloped Ends and Two Top Studs,Bricks Curved,31,48
+3004pr9974,Brick 1 x 2 with LEGO Logo Open O White with Black Outline Print,Bricks,31,45
+67013pat0001,"Brick Wedged, Sloped 4 x 4 with White Underside Pattern (Koopa Troopa Shell)",Bricks Wedged,31,32
+3755a,Brick 1 x 3 x 5 with Side Supports,Bricks,30,105
+5174,Brick Curved Inverted 2 x 4 Double,Bricks Curved,30,94
+71771,Brick Curved 5 x 8 x 2/3 with No Studs on Top,Bricks Curved,30,88
+65635,"Brick Special 2 x 6 x 1 1/3 with Axle Holes and 2 x 4 Recessed, Bar at Underside",Bricks Special,30,66
+30603,"Brick Sloped 2 x 2 No Studs, with 3 Side Pistons Raised Edges",Bricks Sloped,30,60
+700b,"Brick 10 x 20 without Bottom Tubes, with '+' Cross Support (early Baseplate)",Bricks,30,55
+22390,"Brick Wedged, Sloped 45° 6 x 8 with Pointed Cutout",Bricks Wedged,30,53
+3004pr0020,Brick 1 x 2 with Pixelated Lit Forge Print,Bricks,30,30
+7729,Brick Special 1 x 1 x 1 2/3 with 6 Studs on 3 Sides,Bricks Special,29,95
+23949,Brick Sloped 45° 2 x 6,Bricks Sloped,29,75
+5830,"Brick Wedged, Curved 6 x 2 Left, Smooth Inner Walls",Bricks Wedged,29,69
+30373,Brick Sloped Inverted 65° 6 x 6 x 2 Quad with Cutouts,Bricks Sloped,29,54
+73090b,Brick Special 2 x 6 x 2 Weight with Sealed Bottom and Dimples on Ends,Bricks Special,29,49
+33215,Roof / Tower 6 x 8 x 9,Bricks Sloped,29,46
+6153a,"Brick Wedged, Sloped 6 x 4 Cutout, No Stud Notches",Bricks Wedged,29,37
+49757,"Key Chain, Chrome Chain and Ring with 2 x 4 Brick",Bricks Special,29,30
+3004pr0021,Brick 1 x 2 with Pixelated Forge Print,Bricks,29,29
+49612,Brick Round Corner 4 x 4 x 2 2/3 Quarter Dome Top,Bricks Round and Cones,28,128
+6331,Brick Round 1 x 1 with 3 Bars,Bricks Round and Cones,28,106
+3044a,Brick Sloped 45° 2 x 1 Double without Bottom Pin,Bricks Sloped,28,55
+67931pat0001,"Brick Wedged, Sloped 4 x 4 with Diamond Spikes with White Underside Pattern",Bricks Wedged,28,29
+3039pr0020,Brick Sloped 45° 2 x 2 with Cash Register Print,Bricks Sloped,28,28
+3062c,"Brick Round 1 x 1 Solid Stud, No Bottom Groove",Bricks Round and Cones,27,281
+3660b,"Brick Sloped Inverted 45° 2 x 2 [Ovoid Bottom Pin, Small Stud Holes]",Bricks Sloped,27,159
+4770,Brick Round 1 x 1 x 2/3 Light Bulb Cover,Bricks Round and Cones,27,128
+5847,Brick Curved Inverted 1 x 2 with 1 x 1 Cutouts,Bricks Curved,27,125
+85970,Brick Curved 10 x 1 [Asymmetric Inside Ridges],Bricks Curved,27,84
+27266,Brick Round 2 x 2 Special with Spikes,Bricks Round and Cones,27,58
+30181,Brick Wedged 4 x 10 with Cut Corner,Bricks Wedged,27,55
+30183,Brick Sloped Inverted 45° 6 x 4 Double with Recessed Center,Bricks Sloped,27,33
+7826,Brick Sloped 30° 1 x 1 x 2/3 Double Corner,Bricks Sloped,26,117
+7037,"Brick Wedged, Rounded 2 x 2 with Curved Front, 2 Studs",Bricks Wedged,26,71
+30274,Brick Special 2 x 3 x 3 with Cutout and Lion Head [Hollow Studs],Bricks Special,26,48
+3039pr9996,"Brick Sloped 45° 2 x 2 with 12 Buttons, 3 Red Lamps, Black Panel Print",Bricks Sloped,26,39
+64713,"Cone Jagged, Drill Tip",Bricks Round and Cones,26,31
+3039pr0025,"Brick Sloped 45° 2 x 2 with Computer Screen, Radar Print",Bricks Sloped,26,28
+3039pr0029,"Brick Sloped 45° 2 x 2 with Keypad, Card Slot, '9.99' Print",Bricks Sloped,26,27
+7532,"Brick Round, Quarter 1 x 1",Bricks Round and Cones,25,150
+76795,"Brick Round Corner 5 x 5 x 1 Slope, Bottom Cut Outs, No Studs, Flat Top",Bricks Round and Cones,25,85
+15625,"Brick Curved 5 x 8 x 2/3, 4 Studs on Top",Bricks Curved,25,61
+75539,Brick Sloped 8 x 5 x 2/3 with 2 x 6 Studs,Bricks Sloped,25,53
+3005pr0014,Brick 1 x 1 with Popcorn Bucket Print,Bricks,25,34
+4747,"Brick Special 2 x 4 with Coupling, Male",Bricks Special,25,33
+4748,"Brick Special 2 x 4 with Coupling, Female",Bricks Special,25,33
+3039pr0062,Brick Sloped 45° 2 x 2 with Red Cash Register and '+15' Print,Bricks Sloped,25,28
+42021,"Brick Wedged, Curved Inverted 8 x 6 x 2 Cockpit",Bricks Wedged,25,27
+3004pr0056,Brick 1 x 2 with Blue Eyes (Yoshi) Print,Bricks,25,26
+73682,"Brick Curved, Internal Double, 3 x 3 with 1/3 Inverted Cutout, Corner",Bricks Curved,24,146
+49618,Brick Sloped 25° 1 x 8 x 3,Bricks Sloped,24,56
+50948,"Brick Wedged, Curved 4 x 3 Recessed Back with Opening, Two Studs [Plain]",Bricks Wedged,24,34
+6929,"Brick Wedged, Curved 4 x 2 with Stud Notch Right",Bricks Wedged,24,33
+6930,"Brick Wedged, Curved 4 x 2 with Stud Notch Left",Bricks Wedged,24,33
+85984pr0013,Brick Sloped 30° 1 x 2 x 2/3 with Green Screens and Controls Print,Bricks Sloped,24,29
+3005pr0026,"Brick 1 x 1 with Milk Carton, Glass, Print",Bricks,24,27
+3660a,Brick Sloped Inverted 45° 2 x 2 [Round Bottom Pin],Bricks Sloped,23,152
+6806,Brick Curved 2 x 6 Inverted,Bricks Curved,23,56
+6162,Brick Round Corner 12 x 12,Bricks Round and Cones,23,55
+3039pr0015,Brick Sloped 45° 2 x 2 with Complex Control Panel with Red and Green Lamps Print,Bricks Sloped,23,32
+3039pr9970,Brick Sloped 45° 2 x 2 with 3 Gauges and 3 Knobs Print,Bricks Sloped,23,26
+60583a,"Brick Special 1 x 1 x 3 with 2 Clips Vertical [Solid Stud, Thick U Clips]",Bricks Special,22,90
+61487,Brick Curved 4 x 4 x 2 with Holes,Bricks Curved,22,84
+3005pr0002,Brick 1 x 1 with Eye Squinting Black and White Print,Bricks,22,52
+3010pr9965,Brick 1 x 4 with Black 'Legoland' Logo Print,Bricks,22,48
+3010apr0004,Brick 1 x 4 with Black 15 Bars Grill Print,Bricks,22,46
+3040bpr0011,Brick Sloped 45° 2 x 1 with 9 Large + 3 Small White Buttons Print,Bricks Sloped,22,34
+54200pr0004,"Brick Sloped 30° 1 x 1 x 2/3 with Keypad, 8 White Buttons, 1 Yellow Print",Bricks Sloped,22,32
+30072,Brick 12 x 24,Bricks,22,29
+3010pr9937,Brick 1 x 4 with Black Car Grill Print [Embossed],Bricks,22,24
+93348,"Brick Wedged, Sloped 4 x 4 Taper, with Stud Notches",Bricks Wedged,21,48
+3039pr0018,Brick Sloped 45° 2 x 2 with Silver Control Panel and Screen Print,Bricks Sloped,21,25
+3039pr0027,"Brick Sloped 45° 2 x 2 with Computer Screen, with Crosshairs Print",Bricks Sloped,21,25
+37352pr0004,Brick Curved 1 x 2 x 1 No Studs with Medium Nougat Lines (Koopa Troopa Nostrils) Print,Bricks Curved,21,21
+65803,Brick Special 16 x 16 x 1 1/3 with Pin Holes,Bricks Special,20,177
+5649,"Brick Round Corner 4 x 4 x 1 with Bottom Cut Outs, No Studs, Flat Top",Bricks Round and Cones,20,78
+86148,"Brick Wedged, Sloped 4 x 4 Triple with 3 Ridges on Slope",Bricks Wedged,20,57
+4509,Brick Sloped 33° 6 x 6 Double (Train Roof),Bricks Sloped,20,54
+30367a,"Brick Round 2 x 2 Dome Top, Blocked Open Stud, No Bottom Axle Holder",Bricks Round and Cones,20,53
+3004pr9970,Brick 1 x 2 with Classic Space Logo Print,Bricks,20,44
+73090a,Brick Special 2 x 6 x 2 Weight with Bottom Openings and Center Seams on Ends,Bricks Special,20,40
+3388,"Brick Wedged, Sloped 1 x 5 x 1 1/3 Left",Bricks Wedged,20,35
+3389,"Brick Wedged, Sloped 1 x 5 x 1 1/3 Right",Bricks Wedged,20,35
+37452,Brick Special 1 x 2 x 2 with Photo Clip,Bricks Special,20,35
+30390b,Slope Inverted 45° 4 x 2 Double with Pins and Axle Hole Type 2 [X Opening],Bricks Special,20,25
+3298pr0039,Brick Sloped 33° 3 x 2 with Classic Space Logo Print,Bricks Sloped,20,22
+18585,Brick Special 2 x 4 with Pin Holes and Flywheel Socket [Airjitzu],Bricks Special,20,21
+3004pr9958,Brick 1 x 2 with TV Screen and 3 Buttons Print,Bricks,20,21
+3005pr0024,Brick 1 x 1 with Mosquito Print,Bricks,20,20
+78886,"Brick Wedged, Sloped 65° 2 x 2 x 2 Corner",Bricks Wedged,19,90
+30382,"Brick Wedged, Sloped 2 x 16 Triple",Bricks Wedged,19,57
+26597,Brick Special 1 x 2 with Vertical Closed Handle Inset from Edge,Bricks Special,19,50
+3134,Brick Special 1 x 2 with Cable Holding Square Cutout,Bricks Special,19,37
+3040bpr0010,Brick Sloped 45° 2 x 1 with 9 Large + 3 Small Black Buttons Print,Bricks Sloped,19,35
+3005pr9994,Brick 1 x 1 with Angry Eye Right / Sad Eye Left Print,Bricks,19,28
+3005pr9995,Brick 1 x 1 with Angry Eye Left / Sad Eye Right Print,Bricks,19,28
+3005pr0033,"Brick 1 x 1 with Orange Sun, '50' on Yellow Background Print",Bricks,19,20
+5532,Brick Round Corner 5 x 5 Macaroni with 1/3 Inner Side,Bricks Round and Cones,18,103
+54200pr0005,Brick Sloped 30° 1 x 1 x 2/3 with Cheese Holes Print,Bricks Sloped,18,23
+3039pr0008,"Brick Sloped 45° 2 x 2 with '000195', Death Star Trench Computer Print",Bricks Sloped,18,19
+4744pr0004,Brick Curved 2 x 4 x 2 Double with Red and White Striped Shirt and Overalls Print,Bricks Curved,18,18
+7527,Brick Curved 2 x 2 x 1 2/3,Bricks Curved,17,135
+49699,Brick Special 1 x 6 x 4 with 4 Pin Holes and Opening,Bricks Special,17,67
+45411,Brick Curved 8 x 6 x 2 Double,Bricks Curved,17,58
+28598,Cone 2 x 2 x 3 Jagged,Bricks Round and Cones,17,55
+67440,Brick Sloped Inverted 60° 1 x 4 x 3,Bricks Sloped,17,49
+14707,Brick Arch 1 x 12 x 3 Raised Arch,Bricks Curved,17,47
+71075,Brick Round 1 x 1 x 1 2/3,Bricks Round and Cones,17,44
+12708pr0001,Dome Hemisphere [Bauble Half] with White Dots Print,Bricks Round and Cones,17,38
+75538,"Brick Curved 8 x 8 x 4, Ramp",Bricks Curved,17,28
+3009apr0004,Brick 1 x 6 with Black Car Grill Print,Bricks,17,21
+3039pr0028,"Brick Sloped 45° 2 x 2 with Computer Screen, Lever Print",Bricks Sloped,17,20
+fabupn0039,Brick Curved 1 x 4 x 2 Fabuland Bell Shape with Headlights,Bricks Curved,17,18
+17485pr9999,"Brick Round 2 x 2, Pin Holes with Gold Lapels, Dark Blue Trim, and White Undershirt Print",Bricks Round and Cones,17,17
+m3001,Minitalia Brick 2 x 4 with Centre Cross Supports,Bricks,16,676
+7825,Brick Sloped 30° 1 x 3 x 2/3,Bricks Sloped,16,72
+3003pr0001,"Brick 2 x 2 with Eye with White Print on Two Sides, White Circle in Pupil, Offset",Bricks,16,60
+5924,Brick Round Corner 2 x 2 x 1,Bricks Round and Cones,16,60
+47757,"Brick Wedged, Sloped 4 x 4 Pyramid Center",Bricks Wedged,16,59
+5651,Brick Round Corner 4 x 4 x 1,Bricks Round and Cones,16,58
+99301,Brick Sloped 33° 3 x 3 Double Concave,Bricks Sloped,16,56
+6039,"Cone 2 x 2 x 1 2/3 Octagonal, Open Stud",Bricks Round and Cones,16,46
+61287,Dome Hemisphere 2 x 2 with Cutout,Bricks Round and Cones,16,42
+45410,Brick Curved Inverted 8 x 6 x 2 Double,Bricks Curved,16,41
+fabupn0038,Brick Curved 1 x 4 x 2 Fabuland Bell Shape,Bricks Curved,16,32
+3004pr0001,"Brick 1 x 2 with Eyes, Freckles and Smile Print",Bricks,16,28
+2876,"Brick Wedged, Sloped 45° 6 x 6 Double / 33° [Train Roof End]",Bricks Wedged,16,25
+6161,Brick Special 24 x 24 without 12 x 12 Quarter Circle,Bricks Round and Cones,16,22
+32084,"Brick Wedged, Sloped 6 x 8 Cutout",Bricks Wedged,16,21
+m3003,Minitalia Brick 2 x 2 with Bottom X Support,Bricks,15,337
+7033,"Brick Round Corner 5 x 5 x 1 Curved, Bottom Cut Outs, No Studs, 9 Bottom Tubes",Bricks Round and Cones,15,97
+30144,Brick 2 x 4 x 3,Bricks,15,56
+61068,Brick Curved 2 x 4 x 2/3 No Studs [No Bottom Tubes],Bricks Curved,15,43
+6184,Brick Arch 1 x 12 x 5 Curved Top,Bricks Curved,15,35
+3660pr0001,Brick Sloped Inverted 45° 2 x 2 with Computer Screen and Right Side Buttons Print,Bricks Sloped,15,28
+30182,Brick Sloped 45° 4 x 4,Bricks Sloped,15,20
+3040bpr0006,"Brick Sloped 45° 2 x 1 with 3 White Buttons, Red and Green Lamps Print",Bricks Sloped,15,20
+3004pr9973,Brick 1 x 2 with Red / Black Three-Dot Face Print,Bricks,15,17
+733,"Brick 10 x 10 without Bottom Tubes, without Cross Supports",Bricks,15,17
+3010apr0009,Brick 1 x 4 with Chrome Silver Car Grill Print [Undetermined],Bricks,15,16
+6044,Brick Sloped 53° 3 x 1 x 3 1/3 with Studs on Slope,Bricks Sloped,14,49
+3298pr0005,Brick Sloped 33° 3 x 2 with Red on Yellow Triangles Print,Bricks Sloped,14,46
+2937,Brick Sloped 55° 1 x 6 x 5 with Bottom Stud Holders,Bricks Sloped,14,42
+3942a,"Cone 2 x 2 x 2, Solid Stud",Bricks Round and Cones,14,38
+7205,"Brick Round, Curved Double 1 x 4 with Stud Notch Right",Bricks Round and Cones,14,32
+6061,Brick 2 x 4 x 2 with Holes on Sides,Bricks Special,14,23
+3039pr9973,Brick Sloped 45° 2 x 2 with Horizon Screen Print,Bricks Sloped,14,20
+3004pr0008,Brick 1 x 2 with Santa Claus Face Print,Bricks,14,18
+3039pr0012,Brick Sloped 45° 2 x 2 with White Phone Print,Bricks Sloped,14,17
+7035,Car Base 4 x 14,Bricks Special,14,16
+3005pr0029,Brick 1 x 1 with Jelly Beans (Bertie Botts Beans) Print,Bricks,14,15
+3037pr0005,Brick Sloped 45° 2 x 4 with Headlight Print,Bricks Sloped,14,15
+6214pr0003,Brick Curved 2 x 8 x 4 Triple Curved Ends with 7 Apples Print,Bricks Curved,14,15
+85984pr9998,Brick Sloped 30° 1 x 2 x 2/3 with Typewriter Print,Bricks Sloped,14,15
+15068pr0015,Brick Curved 2 x 2 x 2/3 with Badge and Blue 'POLICE' Text Print,Bricks Curved,14,14
+3039pr9958,Brick Sloped 45° 2 x 2 with Phone and Minifig Print,Bricks Sloped,14,14
+66787,Pipe 6 x 6 (Warp Pipe),Bricks Round and Cones,14,14
+2875,Brick Sloped 45° 2 x 6 x 2/3,Bricks Sloped,13,95
+7512,"Brick Curved Inverted 2 x 2 x 1, Corner",Bricks Round and Cones,13,52
+6826,Brick Curved Inverted 2 x 2,Bricks Curved,13,44
+33176,Decoration Ball / Orb / Sphere [Scala Finial],Bricks Round and Cones,13,40
+3010pr9975,Brick 1 x 4 with Basic Car Headlights Print,Bricks,13,39
+6056,Brick Special 2 x 2 x 6 with Groove,Bricks Special,13,38
+7206,"Brick Round, Curved Double 1 x 4 with Stud Notch Left",Bricks Round and Cones,13,31
+6822,"Brick Round, Curved Double 3 x 2 Beveled with Stud Notch Left",Bricks Round and Cones,13,26
+6823,"Brick Round, Curved Double 3 x 2 Beveled with Stud Notch Right",Bricks Round and Cones,13,26
+3004pr9975,Brick 1 x 2 with White Down Arrow Print,Bricks,13,21
+73764,Brick Special 2 x 2 x 1 2/3 with Worm Gear Hole,Bricks Special,13,16
+4744pr0007,Brick Curved 2 x 4 x 2 Double with Face/Moustache Print,Bricks Curved,13,15
+3003pr0175,"Brick 2 x 2 with Face, Black Eyes and Open Mouth Smile Print",Bricks,13,14
+39789pr0001,Brick Special 2 x 4 with 3 Axle Holes with '60 Years' Print,Bricks Special,13,13
+66855pr0001,"Brick Special Cube with 2 x 2 Studs on Top, White Circles Print",Bricks Special,13,13
+66855pr0002,"Brick Special Cube with 2 x 2 Studs on Top, Red Circles Print",Bricks Special,13,13
+6042,Brick Special Octagonal 2 x 2 x 3 1/3 with Side Studs,Bricks Special,12,49
+71076,Brick Round 1 x 1 Diameter Tube with 90 Degree Elbow (2 x 2 x 1),Bricks Round and Cones,12,35
+2463,"Brick Wedged, Sloped 3 x 3 x 2 Facet Top",Bricks Wedged,12,34
+3067,Brick 1 x 6 with No Bottom Tubes,Bricks,12,33
+93168,Cylinder 3 x 6 x 2 2/3 Horizontal Solid Studs,Bricks Round and Cones,12,28
+3040bpr0004,Brick Sloped 45° 2 x 1 with White Rotary Dial Print,Bricks Sloped,12,17
+4744pr0044,Brick Curved 2 x 4 x 2 Double with White Stripes Print,Bricks Curved,12,16
+3001pr0009,Brick 2 x 4 with Wavy Mouth and Eyes Print,Bricks,12,14
+3298pr0040,"Brick Sloped 33° 3 x 2 with Eyes, Nose and Whiskers Print",Bricks Sloped,12,13
+5849,Brick Curved 1 x 4 x 1,Bricks Curved,11,78
+60226pr0001,Braille Brick 2 x 4 with 3 Studs ⠇and 'L' Print,Bricks Special,11,70
+3556,Brick 2 x 4 without Cross Supports [Modern],Bricks,11,45
+78522,"Brick Curved 4 x 6 Double, 2 x 4 Cutout",Bricks Curved,11,34
+3297pr0017,Brick Sloped 33° 3 x 4 with Red Triangles with Yellow Border Print,Bricks Sloped,11,30
+3009bpr0051,"Brick 1 x 6 with 'Shell' Rounded 'e', Red Print",Bricks,11,19
+49736,"Tube, Slide Straight",Bricks Special,11,16
+5117,Brick Sloped Inverted 45° 6 x 8 Double with Pin Holes on Sides,Bricks Sloped,11,15
+3010pr9982,Brick 1 x 4 with Car Headlights and Indicators Print,Bricks,11,14
+3039pr9991,Brick Sloped 45° 2 x 2 with Buttons and 15.00 Print,Bricks Sloped,11,14
+6058,"Brick Wedged, Sloped Inverted 11 x 4 x 2 2/3 Cockpit",Bricks Wedged,11,13
+3004pr0138,Brick 1 x 2 with Green Eyes (Koopa Troopa) Print,Bricks,11,11
+3622pr9989,Brick 1 x 3 with Radio and Tape Player Print,Bricks,11,11
+60229pr0001,Braille Brick 2 x 4 with 3 Studs ⠕ and 'O' Print,Bricks Special,10,79
+5844,Brick Arch 1 x 4 x 2 1/3 Curved Top,Bricks Curved,10,67
+3572,Brick Arch 1 x 5 x 2,Bricks Curved,10,42
+60230pr0001,Braille Brick 2 x 4 with 4 Studs ⠏ and 'P' Print,Bricks Special,10,41
+80545,Brick Sloped 45° 2 x 4 x 1 1/3 Double,Bricks Sloped,10,37
+60243pr0001,Braille Brick 2 x 4 with 5 Studs ⠽ and 'Y' Print,Bricks Special,10,31
+65549pr0001,Braille Brick 2 x 4 with 4 Studs ⠺ and 'W' Print,Bricks Special,10,31
+3004pr9972,Brick 1 x 2 with Shell Logo Type I Print,Bricks,10,29
+3943a,"Cone 4 x 4 x 2, No Axle Hole",Bricks Round and Cones,10,29
+6043,Brick Special Octagonal 2 x 2 x 3 1/3 Corner,Bricks Special,10,29
+7906,"Brick Round, Curved Triple 1 x 3 x 1",Bricks Round and Cones,10,23
+3298pr0019,Brick Sloped 33° 3 x 2 with Red Stripes Print,Bricks Sloped,10,19
+3049a,Brick Sloped 45° 2 x 1 Double / Inverted with Bottom Tube,Bricks Sloped,10,14
+700c,"Brick 10 x 20 with Bottom Tubes in Single Row around Edge, with Dual '+' Cross Supports",Bricks,10,12
+93589,"Brick Wedged, Curved 4 x 2 x 1 1/3 with 1 x 4 Base [Plain]",Bricks Wedged,10,12
+3298pr0035,Brick Sloped 33° 3 x 2 with Insectoid Scope Print,Bricks Sloped,10,11
+3297mia,Minitalia Slope 33° 3 x 4 with Bottom X Supports,Bricks Sloped,9,125
+60228pr0001,Braille Brick 2 x 4 with 4 Studs ⠝ and 'N' Print,Bricks Special,9,80
+60232pr0001,Braille Brick 2 x 4 with 4 Studs ⠗ and 'R' Print,Bricks Special,9,80
+60207pr0001,Braille Brick 2 x 4 with 2 Studs ⠑ and 'E 5' Print,Bricks Special,9,74
+60234pr0001,Braille Brick 2 x 4 with 4 Studs ⠞ and 'T' Print,Bricks Special,9,72
+60189pr0001,Braille Brick 2 x 4 with 1 Stud ⠁and 'A 1' Print,Bricks Special,9,70
+60233pr0001,Braille Brick 2 x 4 with 3 Studs ⠎ and 'S' Print,Bricks Special,9,64
+60238pr0001,Braille Brick 2 x 4 with 3 Studs ⠥ and 'U' Print,Bricks Special,9,58
+60227pr0001,Braille Brick 2 x 4 with 3 Studs ⠍ and 'M' Print,Bricks Special,9,56
+60294pr0001,Braille Brick 2 x 4 with 4 Studs ⠶ and '=' Equals Print,Bricks Special,9,56
+41766,Brick Curved 8 x 2 x 2,Bricks Curved,9,48
+6037,Brick Special Octagonal 2 x 2 x 3 1/3,Bricks Special,9,47
+3007mia,Minitalia Brick 2 x 8 with Bottom X Supports,Bricks,9,46
+60225pr0001,Braille Brick 2 x 4 with 2 Studs ⠅ and 'K' Print,Bricks Special,9,42
+7217,Brick Curved 1 x 8 x 1 2/3,Bricks Curved,9,36
+6032,Brick Special Octagonal 2 x 3 x 1 2/3 Sloped,Bricks Special,9,35
+5057,Brick Round 3 x 3 D. Tube with 45° Elbow and Axle Holes (Crossholes) at Each End,Bricks Round and Cones,9,34
+60231pr0001,Braille Brick 2 x 4 with 5 Studs ⠟ and 'Q' Print,Bricks Special,9,30
+60235pr0001,Braille Brick 2 x 4 with 3 Studs ⠖ and '+' Print,Bricks Special,9,30
+60239pr0001,Braille Brick 2 x 4 with 4 Studs ⠧ and 'V' Print,Bricks Special,9,30
+60240pr0001,Braille Brick 2 x 4 with 4 Studs ⠭ and 'X' Print,Bricks Special,9,30
+60244pr0001,Braille Brick 2 x 4 with 4 Studs ⠵ and 'Z' Print,Bricks Special,9,30
+60297pr0001,Braille Brick 2 x 4 with 2 Studs ⠤ and '-' Print,Bricks Special,9,30
+65552pr0001,"Braille Brick 2 x 4 with 1 Studs ⠂ and ',' Print",Bricks Special,9,30
+30645,"Brick Special 12 x 12 Base with 4 Corner Pegs, 1 x 10 Cutouts, Grooves",Bricks Special,9,29
+3010apr0012,Brick 1 x 4 with Basic Car Tail-lights Print,Bricks,9,28
+1744,Cone 3 x 3 x 3 (Elliptic Paraboloid) with Internal Axle Hole,Bricks Round and Cones,9,27
+3002apr0006,Brick 2 x 3 with Black 'POLICE' Serif Bold Print (Embossed),Bricks,9,24
+3298pr0006,Brick Sloped 33° 3 x 2 with Green on Yellow Triangles Print,Bricks Sloped,9,23
+3001pr0002,Brick 2 x 4 with 'TOW MATER' on Sand Green Background Print,Bricks,9,18
+3004pr9994,Brick 1 x 2 with Red Cross Print,Bricks,9,17
+962,Brick Sloped 45° 2 x 2 Double Convex / Double Concave,Bricks Sloped,9,17
+3039pr9952,Brick Sloped 45° 2 x 2 with Blue/Copper Radar Display Print,Bricks Sloped,9,16
+3040bpr0008,"Brick Sloped 45° 2 x 1 with 3 Red Lamps, 3 Yellow Buttons, Yellow Border Print",Bricks Sloped,9,16
+3298pr0017,Brick Sloped 33° 3 x 2 with Freestyle Flag Print,Bricks Sloped,9,16
+33230,Brick Round Corner 16 x 16,Bricks Round and Cones,9,14
+3004pr9980,Brick 1 x 2 with Black and White Squinting Eyes and Hair Print,Bricks,9,13
+3754pr0005,Brick 1 x 6 x 5 with NBA Logo and Basketball Backboard Print,Bricks,9,12
+87619,"Brick Special, Train Front Sloping Base Wedged with 4 Studs on Front and 2 x 4 Cutout",Bricks Special,9,12
+3003pr0035,Brick 2 x 2 with Light Bluish Gray and Black Pixelated Furnace Print,Bricks,9,10
+4744pr0008,"Brick Curved 2 x 4 x 2 Double with Yellow Face, Woman Print",Bricks Curved,9,10
+6214pr0002,Brick Curved 2 x 8 x 4 Triple Curved Ends with 7 Pears Print,Bricks Curved,9,10
+65186,"Brick Special 4 x 10 x 1 With 2 Wedges, Pin Holes, 4 x 2 Recessed Center",Bricks Special,9,10
+7908,"Brick Round, Curved Inverted 3 x 3",Bricks Round and Cones,9,10
+3001pr0016,Brick 2 x 4 with Yellow Car Grille Print,Bricks,9,9
+3004pr0092,"Brick 1 x 2 with Blue Eyes, Yellow Face, Medium Nougat Forehead Print",Bricks,9,9
+3298pr0024,Brick Sloped 33° 3 x 2 with Red '1' and Yellow Outline Print,Bricks Sloped,9,9
+3298pr0037,"Brick Sloped 33° 3 x 2 with Red '3', Black Triangle Print",Bricks Sloped,9,9
+37352pr0008,Brick Curved 1 x 2 x 1 No Studs with Dark Pink Lines (Yoshi Nostrils) Print,Bricks Curved,9,9
+37352pr0017,Brick Curved 1 x 2 x 1 No Studs with White Stripe Print,Bricks Curved,9,9
+49311pr0017,"Brick 1 x 4 x 3 with R2-D2, Hologram Brick, '25 YEARS OF LEGO STAR WARS' Print",Bricks,9,9
+69182,"Die - 6 Sided with 3 x 3 Centre Studs, and Ring (DOTS)",Bricks Special,9,9
+3298mia,Minitalia Slope 33° 3 x 2 with Bottom X Supports,Bricks Sloped,8,57
+3684b,Brick Sloped 75° 2 x 2 x 3 Smooth,Bricks Sloped,8,57
+60191pr0001,Braille Brick 2 x 4 with 2 Studs ⠉ and 'C 3' Print,Bricks Special,8,55
+60192pr0001,Braille Brick 2 x 4 with 3 Studs ⠙ 'D 4' Print,Bricks Special,8,53
+60221pr0001,Braille Brick 2 x 4 with 4 Studs ⠛ and 'G 7' Print,Bricks Special,8,51
+60190pr0001,Braille Brick 2 x 4 with 2 Studs ⠃ and 'B 2' Print,Bricks Special,8,43
+6107,Brick Wedged 5 x 5 Facet,Bricks Wedged,8,36
+3298pr0007,Brick Sloped 33° 3 x 2 with Blue on Yellow Triangles Print,Bricks Sloped,8,32
+65556pr0001,Braille Brick 2 x 4 with 2 Studs ⠨ and Black Arrow Up Print,Bricks Special,8,29
+7818,"Brick Round 1 x 1 x 2/3 Half Circle, Curved Top",Bricks Round and Cones,8,27
+15411,Brick Special 1 x 1 with Stud on Side and Conductive Element on Opposite Side,Bricks Special,8,25
+5854,Brick Curved 2 x 2 with 1 x 2 Cutouts,Bricks Curved,8,25
+18909,Cone Half 6 x 3 x 6 (Elliptic Paraboloid),Bricks Round and Cones,8,23
+3048b,Brick Sloped 45° 2 x 1 Triple Smooth,Bricks Sloped,8,22
+52040,Brick Special 12 x 12 with 3 Pin Holes on Each Side and Axle Holes in Corners,Bricks Special,8,21
+49737,"Tube, Slide Curved 45deg",Bricks Special,8,20
+7534,"Brick Round, Curved 1 x 2 with Side Stud, Bar",Bricks Round and Cones,8,18
+1974,Dome Hemisphere 7 x 7 with 2 Pin Holes [Plain],Bricks Round and Cones,8,17
+5331,Brick Round 2 x 2 x 2 Crystal Facets Top,Bricks Round and Cones,8,17
+3004pr0064,Brick 1 x 2 with Star with Eyes Print,Bricks,8,16
+3010pr0084,Brick 1 x 4 with Bright Light Blue and White 'POLICE' Print,Bricks,8,15
+4228,Brick Sloped Inverted 33° 5 x 6 x 2,Bricks Sloped,8,15
+3039pr9956,Brick Sloped 45° 2 x 2 with Black and Yellow Stripes Print,Bricks Sloped,8,14
+3004pr0002,Brick 1 x 2 with Eyes and Red Smile Print,Bricks,8,13
+3010apr9959,Brick 1 x 4 with Stripes and Wrench Print,Bricks,8,13
+3942b,"Cone 2 x 2 x 2, Blocked Open Stud",Bricks Round and Cones,8,11
+3039pr9971,Brick Sloped 45° 2 x 2 with Horizon Indicator Screen Print,Bricks Sloped,8,10
+3039pr9997,Brick Sloped 45° 2 x 2 with Space Display Print,Bricks Sloped,8,10
+7202,Dome 6 x 3 x 3 Half,Bricks Round and Cones,8,10
+15068pr0038,Brick Curved 2 x 2 x 2/3 with Yellow Fire Fighter Symbol Print,Bricks Curved,8,9
+3004pr9990,Brick 1 x 2 with 'Octan 3.09' Print,Bricks,8,9
+4744pr0042,Brick Curved 2 x 4 x 2 Double with 3 Yellow Dots Print,Bricks Curved,8,9
+15571pr0003,Brick Sloped 45° 2 x 1 Triple with Reddish Brown Marks (Nostrils) Print,Bricks Sloped,8,8
+3003pr0141,Brick 2 x 2 with Thin Black Eyes Print,Bricks,8,8
+3003pr0160,"Brick 2 x 2 with Face, Surprised Open Mouth Print",Bricks,8,8
+3039pr9972,"Brick Sloped 45° 2 x 2 with Flame and Control Panel, Fire Print",Bricks Sloped,8,8
+3298pr0012,Brick Sloped 33° 3 x 2 with '1' Print,Bricks Sloped,8,8
+3298pr0023,Brick Sloped 33° 3 x 2 with Red '2' over Two Green Stripes Print,Bricks Sloped,8,8
+3298pr0028,"Brick Sloped 33° 3 x 2 with Yellow Number '4', Stripes Print",Bricks Sloped,8,8
+3678bpr0003,Brick Sloped 65° 2 x 2 x 2 with Layered Dress with Light Blue Skirt and Gold Belt Print,Bricks Sloped,8,8
+37352pr0003,Brick Curved 1 x 2 x 1 No Studs with Dark Green Lines (Yoshi Nostrils) Print,Bricks Curved,8,8
+37352pr0010,Brick Curved 1 x 2 x 1 No Studs with Medium Nougat Lines (Nostrils) Print,Bricks Curved,8,8
+4744pr0039,Brick Curved 2 x 4 x 2 Double with Tiger Face Print,Bricks Curved,8,8
+60223pr0001,Braille Brick 2 x 4 with 2 Studs ⠊ and 'I 9' Print,Bricks Special,7,64
+60222pr0001,Braille Brick 2 x 4 with 3 Studs ⠓ and 'H 8' Print,Bricks Special,7,50
+60220pr0001,Braille Brick 2 x 4 with 3 Studs ⠋ and 'F 6' Print,Bricks Special,7,42
+60224pr0001,Braille Brick 2 x 4 with 3 Studs ⠚ and 'J 0' Print,Bricks Special,7,42
+60295pr0001,Braille Brick 2 x 4 with 4 Studs ⠼ and '#' Print,Bricks Special,7,42
+3004pr0103,Brick 1 x 2 with Black Curved Line / Smile Print,Bricks,7,34
+3665a,Brick Sloped Inverted 45° 2 x 1 [Old Type with Small Stud Hole],Bricks Sloped,7,32
+33287,Brick Round 2 x 2 x 2 Dome Top with Cross Cut Slots,Bricks Round and Cones,7,24
+7518,"Brick Round, Curved Triple 2 x 6 x 1 2/3",Bricks Round and Cones,7,22
+6957,Brick Round 3 x 6 Half Circle,Bricks Round and Cones,7,19
+76776,Brick Round Corner 5 x 5 x 3 1/3 Quarter Dome Top [Plain],Bricks Round and Cones,7,19
+3010pr9970,Brick 1 x 4 with Red Danger Stripes on White Background Print,Bricks,7,18
+3010pr9979,Brick 1 x 4 with Blue Triangles Print,Bricks,7,18
+2605c01,Brick Special 1 x 2 x 2 1/3 with Spring Unit,Bricks Special,7,16
+3004pr9968,Brick 1 x 2 with LEGO Logo Closed O White with Black Outline Print,Bricks,7,15
+3004pr9965,Brick 1 x 2 with Shuttle and Yellow Circle Print,Bricks,7,14
+3004pr9976,Brick 1 x 2 with Thin Black 'POLICE' Print,Bricks,7,13
+3004pr0075,Brick 1 x 2 with White Question Mark '?' Print,Bricks,7,12
+30390a,Slope Inverted 45° 4 x 2 Double with Pins and Axle Hole Type 1 [+ Opening],Bricks Special,7,11
+3039pr9974,Brick Sloped 45° 2 x 2 with Red Square and Circuitry Print,Bricks Sloped,7,11
+3040bpr0012,Brick Sloped 45° 2 x 1 with Black Crosshairs and Green Insectoid Print,Bricks Sloped,7,11
+3298pr0014,Brick Sloped 33° 3 x 2 with Red Stars Print,Bricks Sloped,7,11
+5690,Brick Round 2 x 2 Dome Top with 2 Ears,Bricks Round and Cones,7,11
+3010apr9936,Brick 1 x 4 with Black Car Grill Print,Bricks,7,10
+3009pr0010,Brick 1 x 6 with 'POLICE' Thin Black Print,Bricks,7,9
+30272,Brick Arch 2 x 12 x 6 with Grooves,Bricks Curved,7,9
+3298pr0027,Brick Sloped 33° 3 x 2 with Ice Planet Logo Print,Bricks Sloped,7,9
+4365,"Brick Wedged, Sloped 45° 6 x 4 Double / 33°, 9 Bottom Tubes [Train Roof]",Bricks Wedged,7,9
+15444,Brick Special 1 x 1 x 2 with Extra Tube Side [Piece of Resistance],Bricks Special,7,8
+3003pr0002,"Brick 2 x 2 with Eye without White Print on Two Sides, Circle in Pupil, Offset",Bricks,7,8
+3010apr0008,Brick 1 x 4 with Chrome Silver Car Grill Print,Bricks,7,8
+3039pr9957,Brick Sloped 45° 2 x 2 with Black and Yellow Border and Screen Print (Rock Raiders),Bricks Sloped,7,8
+30361cpr0004,Brick Round 2 x 2 x 2 Robot Body with Blue and Gray Astromech Droid Print (R2-D2),Bricks Round and Cones,7,7
+30614,Roof Piece 6 x 6 x 3 Peaked,Bricks Sloped,7,7
+3298pr0010,"Brick Sloped 33° 3 x 2 with White Stripes, '3' Print",Bricks Sloped,7,7
+3298pr0025,Brick Sloped 33° 3 x 2 with UFO Print,Bricks Sloped,7,7
+5120,Brick Sloped 45° 6 x 8 Double with 4 x 8 Cutout,Bricks Sloped,7,7
+29541,Brick Soft 2 x 4,Bricks,6,138
+29540,Brick Soft 2 x 2,Bricks,6,113
+3755,Brick 1 x 3 x 5 without Side Supports,Bricks,6,103
+3009pr0017,Brick 1 x 6 with 12 Black Squares Print,Bricks,6,45
+7249,Brick Curved 4 x 4 x 1 2 / 3,Bricks Curved,6,42
+5382,"Brick Wedged, Curved 4 x 8 No Top Studs",Bricks Wedged,6,38
+7134,"Brick Curved 1 x 2 x 1 No Studs, No Bottom Stud Holder",Bricks Curved,6,36
+702,Brick 4 x 4 Corner,Bricks,6,30
+7261,"Brick Sloped Inverted 45° 2 x 2 [No Bottom Pin, Bar-sized Stud Holes]",Bricks Sloped,6,27
+3299mia,Minitalia Slope 33° 2 x 4 Double with Bottom X Supports,Bricks Sloped,6,25
+43085,Sports Arena Section / Skateboard Ramp,Bricks Curved,6,20
+3063a,Brick Round Corner 2 x 2 Macaroni without Stud Notch,Bricks Round and Cones,6,19
+3660pr0002,Brick Sloped Inverted 45° 2 x 2 with 4 Black Rectangles Print,Bricks Sloped,6,19
+112174,"Technic Brick 2 x 4 with 4 Pin Holes, 2 Pins",Bricks Special,6,18
+29096,Cone Half 10 x 5 x 6 [Plain],Bricks Round and Cones,6,17
+3297pr0008,Brick Sloped 33° 3 x 4 with Yellow Triangles Print,Bricks Sloped,6,16
+8235,Brick Curved 4 x 3 x 2/3 No Studs,Bricks Curved,6,15
+3003pr0054,Brick 2 x 2 with Red Dot on One Side Print,Bricks,6,14
+30296,Brick Arch 2 x 14 x 2 1/3,Bricks Curved,6,13
+41533,Brick Special 2 x 2 x 2 with Rotation Joint Socket and Rear Pin Hole,Bricks Special,6,13
+3298pr0004,Brick Sloped 33° 3 x 2 with Explorien Logo Print,Bricks Sloped,6,12
+3298pr0033,Brick Sloped 33° 3 x 2 with SPACE POLICE' Print,Bricks Sloped,6,12
+80029,Tower Roof 2 x 4 x 4 Half Cone Shaped with Roof Tiles and Window,Bricks Round and Cones,6,12
+15068pr0054,Brick Curved 2 x 2 x 2/3 with Fire Logo Print,Bricks Curved,6,10
+3298pr0041,Brick Sloped 33° 3 x 2 with Louver Print,Bricks Sloped,6,9
+47974,Brick Round Corner 4 x 8 Full Brick Double,Bricks Round and Cones,6,8
+61287pr0001,Dome Hemisphere 2 x 2 with Cutout with Reddish Brown Americas and South Pacific Globe Print,Bricks Round and Cones,6,8
+61287pr0002,"Dome Hemisphere 2 x 2 with Cutout with Reddish Brown Europe, Africa, Asia, Australia Globe Print",Bricks Round and Cones,6,8
+15068pr0098,Brick Curved 2 x 2 x 2/3 with Silver Police Badge Print,Bricks Curved,6,7
+4744pr0032,Brick Curved 2 x 4 x 2 Double with Dots White Print,Bricks Curved,6,7
+17485pr0009,"Brick Round 2 x 2, Pin Holes with Gold Lapels, Dark Orange Trim, and White Undershirt Print",Bricks Round and Cones,6,6
+2454apr0001,"Brick 1 x 2 x 5 with Hieroglyphs 'Anubis', Arm on Top Print",Bricks,6,6
+3003apr0056,Brick 2 x 2 with LEGO Logo with Open O White with Black Outline Print,Bricks,6,6
+3003pr0171,"Brick 2 x 2 with Face, Winking Eyes and Open Mouth Smile Print",Bricks,6,6
+3004pr0093,Brick 1 x 2 with Drooping Eyes (Yoshi) Print,Bricks,6,6
+3009apr0014,Brick 1 x 6 with 'HOTEL' Curvy Blue Print,Bricks,6,6
+3010pr9969,Brick 1 x 4 with Black Car Grill Print,Bricks,6,6
+3010pr9981,Brick 1 x 4 with Car Headlights and Blue Oval Print,Bricks,6,6
+30367apr0001,Brick Round 2 x 2 Dome Top with Silver and Blue Print (R2-D2),Bricks Round and Cones,6,6
+3297pr0022,Brick Sloped 33° 3 x 4 with Roaring Cheetah Head Print,Bricks Sloped,6,6
+3298pr0011,Brick Sloped 33° 3 x 2 with White '2' Print,Bricks Sloped,6,6
+3622pr0057,Brick 1 x 3 with Black Eyes and Eyebrows (Boo) Print,Bricks,6,6
+37352pr0027,Brick Curved 1 x 2 x 1 No Studs with Reddish Brown Lines (Nostrils) Print,Bricks Curved,6,6
+4045pr0001,"Brick Round, Curved Triple 1 x 4 x 1 with Black Closed Eyes Print",Bricks Round and Cones,6,6
+42863,"Brick Wedged, Sloped Inverted 16 x 4 x 1 1/3 Cockpit",Bricks Wedged,6,6
+4744pr0003,"Brick Curved 2 x 4 x 2 Double with 3 Yellow Buttons, Green Collar Print",Bricks Curved,6,6
+4744pr0041,Brick Curved 2 x 4 x 2 Double with Lion Face Print,Bricks Curved,6,6
+66855pr0004,"Brick Special Cube with 2 x 2 Studs on Top, Blue Circles Print",Bricks Special,6,6
+66855pr0005,"Brick Special Cube with 2 x 2 Studs on Top, Yellow Circles Print",Bricks Special,6,6
+73715pat0001,"Brick Wedged, Sloped 4 x 4 with Pin Holes and White Underside Pattern (Para-Koopa Shell)",Bricks Wedged,6,6
+85984pr0045,"Brick Sloped 30° 1 x 2 x 2/3 with Medium Azure Scale / Speedometer, Red Dial Print",Bricks Sloped,6,6
+71727,Brick Soft Curved 2 x 2,Bricks Curved,5,28
+3003b,Brick 2 x 2 without Inside Support or Tubes,Bricks,5,25
+2464,"Brick Wedged, Sloped Inverted 3 x 3 x 2 Facet",Bricks Wedged,5,22
+60290pr0001,Braille Brick 2 x 4 with 6 Studs ⠿ and 'É' Print,Bricks Special,5,20
+3297pr0011,Brick Sloped 33° 3 x 4 with Blue Triangles with Yellow Border Print,Bricks Sloped,5,19
+65551pr0001,Braille Brick 2 x 4 with 1 Studs ⠄and ' ' ' Print,Bricks Special,5,17
+65555pr0001,Braille Brick 2 x 4 with 3 Studs ⠦ and 'x' (Multiply) Print,Bricks Special,5,17
+65558pr0001,Braille Brick 2 x 4 with 2 Studs ⠒ and '÷' Print,Bricks Special,5,17
+7547,Brick Curved 4 x 2 Double,Bricks Curved,5,17
+18897,Brick Round 6 x 6 with 4 Side Pin Holes and Center Hole,Bricks Round and Cones,5,16
+7827,Brick Sloped 30° 1 x 1 x 2/3 Double Concave,Bricks Sloped,5,16
+7133,"Brick Special 1 x 2 with 1 Center Stud on 1 Side, No Bottom Stud Holder",Bricks Special,5,15
+7241,"Brick Wedged, Sloped 4 x 4 Corner",Bricks Wedged,5,15
+3010apr0001,Brick 1 x 4 with 'AUTO SERVICE' and Wrench Print,Bricks,5,14
+3297pr0023,Brick Sloped 33° 3 x 4 with Green Triangles with Yellow Border Print,Bricks Sloped,5,14
+2622,"Brick Wedged, Sloped Inverted 8 x 10 x 1 Boat Bow",Bricks Wedged,5,13
+3005pr9985,Brick 1 x 1 with Blue '3' Print,Bricks,5,13
+3010pr9960,Brick 1 x 4 with Fire Logo Badge and White Diagonal Stripes Print,Bricks,5,13
+3037b,Brick Sloped 45° 2 x 4 Smooth,Bricks Sloped,5,13
+6061b,"Brick 2 x 4 x 2 with Holes on Sides, Reinforced Supports between Tubes",Bricks Special,5,13
+3005pr0030,Brick 1 x 1 with White/Dark Blue Eye,Bricks,5,12
+77822,Stunt Ramp 8 x 15 x 6,Bricks Curved,5,11
+12708pr0002,Dome Hemisphere [Bauble Half] with White Snowflakes Print,Bricks Round and Cones,5,10
+3004pr9967,Brick 1 x 2 with Police Yellow Star Badge Print,Bricks,5,10
+3004pr9985,Brick 1 x 2 with Yellow Left Arrow with Black Border Print,Bricks,5,10
+15068pr0058,Brick Curved 2 x 2 x 2/3 with Classic Space Logo Print,Bricks Curved,5,9
+3004pr0003,Brick 1 x 2 with Animal Face Print,Bricks,5,9
+3004pr9969,Brick 1 x 2 with Ice Cream Print,Bricks,5,9
+3010pr0016,Brick 1 x 4 with White 'POLICE' and Red Line Print,Bricks,5,9
+3010pr9964,Brick 1 x 4 with White 'Legoland' Logo Print,Bricks,5,9
+7519,"Brick Wedged, Curved 3 x 2 x 1 2/3 with Stud Notch Left",Bricks Wedged,5,9
+7520,"Brick Wedged, Curved 3 x 2 x 1 2/3 with Stud Notch Right",Bricks Wedged,5,9
+89680,"Brick Wedged, Curved 16 x 4 Triple without Inner Ridges",Bricks Wedged,5,9
+upn0322a,Minitalia Arch 2 x 10 x 2 with Bottom X Support,Bricks Curved,5,9
+1746,Tower Roof 4 x 8 x 6 Half Cone Shaped with Roof Tiles,Bricks Round and Cones,5,8
+3010pr9957,Brick 1 x 4 with Car Taillights Red and Orange Print,Bricks,5,8
+3039pr9967,Brick Sloped 45° 2 x 2 with Ice Planet Controls Print,Bricks Sloped,5,8
+3039pr9980,"Brick Sloped 45° 2 x 2 with Grid Screen, Shark, and Controls on Red Panel Print (Aquazone)",Bricks Sloped,5,8
+30400,Brick 4 x 18,Bricks,5,8
+3298pr0013,Brick Sloped 33° 3 x 2 with 'POLICE' Print (Space Police I),Bricks Sloped,5,8
+3569,Cone 4 x 4 x 3 with Axle Hole,Bricks Round and Cones,5,8
+3004pr9991,Brick 1 x 2 with LEGO Logo Closed O Square Print,Bricks,5,7
+3009pr0018,Brick 1 x 6 with 'POLICE' Serif Black Print,Bricks,5,7
+3010pr9963,Brick 1 x 4 with Black 20 Bars Grill Print,Bricks,5,7
+upn0197,"Pencil Rubber, Integrated 2 x 2 Brick Round with Axle Hole",Bricks Special,5,7
+15068pr0003,Brick Curved 2 x 2 x 2/3 with Dark Blue/White Arctic Explorer Logo Print,Bricks Curved,5,6
+15068pr0075,Brick Curved 2 x 2 x 2/3 with Arctic Explorer Symbol Print,Bricks Curved,5,6
+15068pr9999,"Brick Curved 2 x 2 x 2/3 with Compass Outline, and Leopard Eyes Peering Through Green Leaves Print",Bricks Curved,5,6
+3004pr0085,Brick 1 x 2 with White Eyes Print,Bricks,5,6
+3010apr0011,Brick 1 x 4 with Homemaker Stove Switch Print,Bricks,5,6
+3037pr0010,Brick Sloped 45° 2 x 4 with Control Panel and Radar Print,Bricks Sloped,5,6
+3245bpr0001,Brick 1 x 2 x 2 with Train Point Print,Bricks,5,6
+3298pr0036,"Brick Sloped 33° 3 x 2 with Red '1', Checkered Flag Print",Bricks Sloped,5,6
+4161pr0001,Brick Sloped 33° 3 x 3 with Ten Buttons Print [Keypad],Bricks Sloped,5,6
+66855pr0007,"Brick Special Cube with 2 x 2 Studs on Top, Toad, White Stripes Print",Bricks Special,5,6
+11211pr0001,"Brick Special 1 x 2 with 2 Studs on 1 Side, with Face, Black Eyes and Open Mouth Smile Print",Bricks Special,5,5
+15068pr0006,Brick Curved 2 x 2 x 2/3 with Fire on Black Badge Print,Bricks Curved,5,5
+15068pr9997,Brick Curved 2 x 2 x 2/3 with Blooper Eyes Print,Bricks Curved,5,5
+17485pr0006,"Brick Round 2 x 2, Pin Holes with Gold Lapels and Magenta Undershirt Print",Bricks Round and Cones,5,5
+3001pr0011,"Brick 2 x 4 with Snout, Fangs, and Whiskers Print",Bricks,5,5
+3004pr0066,Brick 1 x 2 with Oval Eyes Print,Bricks,5,5
+3004pr0090,Brick 1 x 2 with Pixelated Furnace Grill Print,Bricks,5,5
+3005pr9891,Brick 1 x 1 with Blue Y Print,Bricks,5,5
+3008apr0028,Brick 1 x 8 with 'SPECERIER' Red Print,Bricks,5,5
+3008apr0055,Brick 1 x 8 with 'VW SALG VW' Bold Blue Print,Bricks,5,5
+3008apr0059,Brick 1 x 8 with 'SPECERIER' Dark Red Print,Bricks,5,5
+3008pr0029,Brick 1 x 8 with 'ESSO SERVICE' Long Blue Print,Bricks,5,5
+3009apr0024,Brick 1 x 6 with 'TOBAK' Serif Black Print,Bricks,5,5
+30361cpr1001,Brick Round 2 x 2 x 2 Robot Body with Dark Blue and Gray Astromech Droid Print (R2-D2),Bricks Round and Cones,5,5
+30367cpr1020,Brick Round 2 x 2 Dome Top with R2-D2 Astromech Droid Print,Bricks Round and Cones,5,5
+3039pr9968,Brick Sloped 45° 2 x 2 with Spyrius Droid Image Print,Bricks Sloped,5,5
+3062bpr0018,Brick Round 1 x 1 with Dragon Fly Print,Bricks Round and Cones,5,5
+3062bpr0023,Brick Round 1 x 1 with Face with Clenched Teeth Print (Lumiere),Bricks Round and Cones,5,5
+3297pr0020,"Brick Sloped 33° 3 x 4 with Headlights, Yellow 'TURBO', Blue Background and Black Spots Print",Bricks Sloped,5,5
+3298pr0020,Brick Sloped 33° 3 x 2 with Red '6' Print,Bricks Sloped,5,5
+3622pr9990,Brick 1 x 3 with Cash Register Print,Bricks,5,5
+3939pr0003,Brick Sloped 33° 3 x 6 with Large Classic Space Logo Print,Bricks Sloped,5,5
+4490pr0027,Brick Arch 1 x 3 with Yellow Flames Print,Bricks Curved,5,5
+4652,"Brick Wedged, Curved Triple 5 x 6 x 2/3 with 4 Studs, 4 x 3 Cutout",Bricks Wedged,5,5
+4744pr0021,Brick Curved 2 x 4 x 2 Double with Monkey Face Print,Bricks Curved,5,5
+6213pr0001,"Brick 2 x 6 x 3 with Green, Yellow and Blue Dots Print",Bricks,5,5
+6213pr0011,Brick 2 x 6 x 3 with Tools Print,Bricks,5,5
+6213pr0013,Brick 2 x 6 x 3 with Butterfly Print,Bricks,5,5
+85984pr0018,Brick Sloped 30° 1 x 2 x 2/3 with Angry Eyes (Spiny Face) Print,Bricks Sloped,5,5
