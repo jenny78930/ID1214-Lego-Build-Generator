@@ -27,7 +27,7 @@ parts = {
     if categories.get(r["part_cat_id"], "").lower().startswith("bricks")
 }
 
-# Find latest inventory for each set
+# Find latest inventory for each set so usage does not add for several versions
 latest = {}
 for r in read_csv("inventories.csv"):
     key, version = r["set_num"], int(r["version"])
